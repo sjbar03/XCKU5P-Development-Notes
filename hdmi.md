@@ -28,6 +28,9 @@ All of these pins are GTY pins on bank 224. They make up 4 sets of TX differenti
 
 Currently trying to figure out if my core board even exposes the GTY pins. (Not looking good)
 
+## Roadblock
+The AliExpress XCKU5P board does not expose any of the GTY pins on the FPGA - so the Xilinx HDMI Transmitter IP cannot be (easily) used for my purposes. Because of this I am switching to implementing VGA using the high-density (at 3.3V) I/O. These notes will remain for future reference. 
+
 
 # Sources
 (1) https://www.fpga4fun.com/HDMI.html <cr>
