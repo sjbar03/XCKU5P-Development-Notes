@@ -6,6 +6,9 @@ Huge thanks to the creator of [this repository](https://github.com/tommythorn/Al
 
 Table of Contents
 >    [1. VGA](./vga.md)
+> 
 >    [2. HDMI](./hdmi.md)
+> 
 >    [3. Protocols](./protocols.md)
+> 
 >    [4. PCB](./pcb.md)
