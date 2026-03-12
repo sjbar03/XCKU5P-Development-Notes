@@ -1,0 +1,9 @@
+# Force GitHub to recognize this as a Markdown repo
+*.md linguist-detectable=true
+*.md linguist-vendored=false
+*.md linguist-generated=false
+*.md linguist-documentation=false
+*.md linguist-language=Markdown
+
+# Suppress anything being misdetected as AGS Script
+* linguist-language=Markdown
