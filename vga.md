@@ -26,7 +26,7 @@ For simplicity we are going with a Binary Weighted Resistor DAC. This design use
 </div>
 
 ### BWD Math
-The math for the binary weighted DAC is simple. We want our output signal to be 0V to 0.7V, and our input volatge is simple. For a simple voltage divider, we would need a resistance of 325 Ohms to achieve an output of 0.7V.
+The math for the binary weighted DAC is simple. We want our output signal to be 0V to 0.7V, and our input volatge is 3.3V. For a simple voltage divider, we would need a resistance of 325 Ohms to achieve an output of 0.7V.
 
 $$ V_{out} = V_{in} * \frac{R_2}{R_1 + R_2} $$
 
