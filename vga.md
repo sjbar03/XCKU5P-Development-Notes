@@ -54,20 +54,27 @@ For this use case, we're going to need 8 pins for color, 1 pin for HSync, and 1 
 
 Since we're using the HD pins on the AliExpress board we'll choose 10 adjacent pins from our pinout: 
 
-* A10 (84)
-* B9 (83)
-* B10 (82)
-* A12 (81)
-* A13 (80)
-* B11 (79)
-* B12 (78)
-* C12 (77)
-* C13 (76)
-* A14 (75)
+    * AD15 - RED[2]
+    * AF15 - GREEN[2]
+    * AF14 - RED[1]
+    * AF13 - GREEN[1]
+    * AE15 - RED[0]
+    * AE13 - GREEN[0]
+    * AD14 - HS
+    * AD13 - BLUE[0]
+    * AC14 - VS
+    * AC13 - BLUE[1]
 
-These pins are all in the J2 bank on the AliExpress board.
+These pins are all in the J2 bank on the AliExpress board, specifically bank 84. I chose adjacent pins in the same bank for consistency, and I assigned pins to each signal in an attempt to prioritize shorter runs for more important signals.
 
-I will have to implement the VGA drive from scratch since there is no Xilinx IP, although I will have plenty of inspiration to go off of. Two great reference for a Verilog VGA driver is FPGA4FUN (1) and Hunter Adam's + Bruce Land's ECE5760 (4).
+Here are two images of the current design.
+
+<div style="text-align:center">
+    <img src="/img/vga/vga_conn_pcbv2.png" width=45%>
+    <img src="/img/vga/vga_conn_sch.png" width=50%>
+</div>
+
+I will have to implement the VGA driver from scratch since there is no Xilinx IP, although I will have plenty of inspiration to go off of. Two great reference for a Verilog VGA driver is FPGA4FUN (1) and Hunter Adam's + Bruce Land's ECE5760 (4).
 
 # Sources
 (1) https://www.fpga4fun.com/VGA.html <cr>
