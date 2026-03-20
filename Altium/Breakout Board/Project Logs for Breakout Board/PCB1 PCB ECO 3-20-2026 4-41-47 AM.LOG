@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=NetLabel149 Pin=R11-1
+Removed Pin From Net: NetName=NetLabel149 Pin=R12-1
+Removed Pin From Net: NetName=NetLabel149 Pin=R13-1
+Removed Pin From Net: NetName=NetLabel149 Pin=R14-1
+Removed Pin From Net: NetName=NetLabel149 Pin=R15-1
+Removed Pin From Net: NetName=NetLabel149 Pin=R16-1
+Removed Pin From Net: NetName=NetLabel149 Pin=R17-1
+Removed Pin From Net: NetName=NetLabel149 Pin=R19-1
+Removed Pin From Net: NetName=NetLabel149 Pin=R20-1
+Removed Pin From Net: NetName=NetLabel149 Pin=SW1-2
+Removed Pin From Net: NetName=NetLabel149 Pin=SW1-6
+Removed Pin From Net: NetName=NetLabel149 Pin=SW2-2
+Removed Pin From Net: NetName=NetLabel149 Pin=SW2-6
+Removed Pin From Net: NetName=NetLabel149 Pin=SW3-2
+Removed Pin From Net: NetName=NetLabel149 Pin=SW3-6
+Removed Pin From Net: NetName=NetLabel149 Pin=SW4-2
+Removed Pin From Net: NetName=NetLabel149 Pin=SW4-6
+Removed Pin From Net: NetName=NetLabel149 Pin=SW5-2
+Removed Pin From Net: NetName=NetLabel149 Pin=SW5-6
+Removed Pin From Net: NetName=NetLabel149 Pin=SW6-2
+Removed Pin From Net: NetName=NetLabel149 Pin=SW6-6
+Removed Pin From Net: NetName=NetLabel149 Pin=SW7-2
+Removed Pin From Net: NetName=NetLabel149 Pin=SW7-6
+Removed Pin From Net: NetName=NetLabel149 Pin=SW9-2
+Removed Pin From Net: NetName=NetLabel149 Pin=SW9-6
+Removed Pin From Net: NetName=NetLabel149 Pin=SW10-2
+Removed Pin From Net: NetName=NetLabel149 Pin=SW10-6
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW0
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW1
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW2
+Change Component Designator: OldDesignator=SW4 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW5 NewDesignator=SW4
+Change Component Designator: OldDesignator=SW6 NewDesignator=SW5
+Change Component Designator: OldDesignator=SW7 NewDesignator=SW6
+Change Component Designator: OldDesignator=SW8 NewDesignator=SW7
+Change Component Designator: OldDesignator=SW9 NewDesignator=SW8
+Change Component Designator: OldDesignator=SW10 NewDesignator=SW9
+Added Pin To Net: NetName=NetLabel149 Pin=J2-82
+Added Pin To Net: NetName=D9 Pin=R11-1
+Added Pin To Net: NetName=C9 Pin=R12-1
+Added Pin To Net: NetName=D13 Pin=R13-1
+Added Pin To Net: NetName=B14 Pin=R14-1
+Added Pin To Net: NetName=C13 Pin=R15-1
+Added Pin To Net: NetName=B12 Pin=R16-1
+Added Pin To Net: NetName=A13 Pin=R17-1
+Added Pin To Net: NetName=A10 Pin=R19-1
+Added Pin To Net: NetName=A9 Pin=R20-1
+Added Pin To Net: NetName=D9 Pin=SW0-2
+Added Pin To Net: NetName=D9 Pin=SW0-6
+Added Pin To Net: NetName=C9 Pin=SW1-2
+Added Pin To Net: NetName=C9 Pin=SW1-6
+Added Pin To Net: NetName=D13 Pin=SW2-2
+Added Pin To Net: NetName=D13 Pin=SW2-6
+Added Pin To Net: NetName=B14 Pin=SW3-2
+Added Pin To Net: NetName=B14 Pin=SW3-6
+Added Pin To Net: NetName=C13 Pin=SW4-2
+Added Pin To Net: NetName=C13 Pin=SW4-6
+Added Pin To Net: NetName=B12 Pin=SW5-2
+Added Pin To Net: NetName=B12 Pin=SW5-6
+Added Pin To Net: NetName=A13 Pin=SW6-2
+Added Pin To Net: NetName=A13 Pin=SW6-6
+Added Pin To Net: NetName=A10 Pin=SW8-2
+Added Pin To Net: NetName=A10 Pin=SW8-6
+Added Pin To Net: NetName=A9 Pin=SW9-2
+Added Pin To Net: NetName=A9 Pin=SW9-6
+Change Net Name : Old Net Name=NetLabel149 New Net Name=B10

@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=W14 Pin=J6-2
+Added Pin To Net: NetName=Y16 Pin=J6-C1
+Added Pin To Net: NetName=Y15 Pin=J6-C2
+Added Pin To Net: NetName=AB16 Pin=J6-C3
+Added Pin To Net: NetName=AB14 Pin=J6-C5
+Added Pin To Net: NetName=AA13 Pin=J6-C7
+Added Pin To Net: NetName=AA14 Pin=J6-C8
+Added Pin To Net: NetName=3_3V Pin=J6-C4
+Added Net: Name=3_3V
+Add Class Member: Failed to add class member : Component J5 CES-120-02-L-D

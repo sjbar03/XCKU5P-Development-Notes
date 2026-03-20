@@ -1,0 +1,88 @@
+Added Component: Designator=J5(SMTC-CES-120-02-X-D)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/CES.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/CES-1XX-XX-X-D%20-MKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Closed Entry Socket Strip Double Row Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CES-120-02-X-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Y, 9/1992"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CES-120-02-L-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Added Component: Designator=J6(DM3ATSFPEJM5)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/Hirose-HRS-DM3AT-SF-PEJM5_C114218.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DM3AT-SF-PEJM5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "798-DM3AT-SF-PEJM5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/DM3AT-SF-PEJM5?qs=LZSZKJVF%252B2WTDKp%252BR7IYAQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(SMTC-S2M-110-02-X-D-LC)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/s2m.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/S2M-1XX-XX-X-D-XX-XX-MKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2 mm Double Row Socket Strip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "S2M-110-02-X-D-LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "M, 9/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "S2M-110-02-L-D-LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=F10 Pin=J5-5
+Added Pin To Net: NetName=F9 Pin=J5-6
+Added Pin To Net: NetName=D11 Pin=J5-7
+Added Pin To Net: NetName=E12 Pin=J5-8
+Added Pin To Net: NetName=G14 Pin=J5-9
+Added Pin To Net: NetName=F14 Pin=J5-10
+Added Pin To Net: NetName=F12 Pin=J5-11
+Added Pin To Net: NetName=F13 Pin=J5-12
+Added Pin To Net: NetName=G11 Pin=J5-13
+Added Pin To Net: NetName=G12 Pin=J5-14
+Added Pin To Net: NetName=J14 Pin=J5-15
+Added Pin To Net: NetName=J15 Pin=J5-16
+Added Pin To Net: NetName=H13 Pin=J5-17
+Added Pin To Net: NetName=H14 Pin=J5-18
+Added Pin To Net: NetName=J11 Pin=J5-19
+Added Pin To Net: NetName=H11 Pin=J5-20
+Added Pin To Net: NetName=J12 Pin=J5-21
+Added Pin To Net: NetName=J13 Pin=J5-22
+Added Pin To Net: NetName=G9 Pin=J5-23
+Added Pin To Net: NetName=G10 Pin=J5-24
+Added Pin To Net: NetName=H9 Pin=J5-25
+Added Pin To Net: NetName=H12 Pin=J5-26
+Added Pin To Net: NetName=J9 Pin=J5-27
+Added Pin To Net: NetName=J10 Pin=J5-28
+Added Pin To Net: NetName=K9 Pin=J5-29
+Added Pin To Net: NetName=K10 Pin=J5-30
+Added Pin To Net: NetName=W13 Pin=J5-31
+Added Pin To Net: NetName=W12 Pin=J5-32
+Added Pin To Net: NetName=W15 Pin=J5-33
+Added Pin To Net: NetName=W14 Pin=J5-34
+Added Pin To Net: NetName=Y16 Pin=J5-35
+Added Pin To Net: NetName=Y15 Pin=J5-36
+Added Pin To Net: NetName=AA13 Pin=J5-37
+Added Pin To Net: NetName=AA14 Pin=J5-38
+Added Pin To Net: NetName=AB14 Pin=J5-39
+Added Pin To Net: NetName=AB16 Pin=J5-40
+Added Pin To Net: NetName=GND Pin=J6-MP1
+Added Pin To Net: NetName=GND Pin=J6-MP2
+Added Pin To Net: NetName=GND Pin=J6-MP3
+Added Pin To Net: NetName=GND Pin=J6-MP4
+Added Pin To Net: NetName=GND Pin=J6-MP5
+Added Pin To Net: NetName=GND Pin=J6-MP6
+Added Member To Class: ClassName=MICROSD Member=Component J6 DM3AT-SF-PEJM5

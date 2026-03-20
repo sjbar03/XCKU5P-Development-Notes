@@ -1,0 +1,119 @@
+Removed Pin From Net: NetName=D9 Pin=J2-68
+Removed Pin From Net: NetName=C9 Pin=J2-70
+Removed Pin From Net: NetName=D13 Pin=J2-72
+Removed Pin From Net: NetName=B14 Pin=J2-74
+Removed Pin From Net: NetName=C13 Pin=J2-76
+Removed Pin From Net: NetName=B12 Pin=J2-78
+Removed Pin From Net: NetName=A13 Pin=J2-80
+Removed Pin From Net: NetName=B10 Pin=J2-82
+Removed Pin From Net: NetName=A10 Pin=J2-84
+Removed Pin From Net: NetName=A9 Pin=J2-86
+Added Component: Designator=R21(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R22(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R23(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW10(FP-2-1977223-2-MFG)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=SW11(FP-2-1977223-2-MFG)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=SW12(FP-2-1977223-2-MFG)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=SW13(FP-2-1977223-2-MFG)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A9 Pin=J2-68
+Added Pin To Net: NetName=A10 Pin=J2-70
+Added Pin To Net: NetName=B10 Pin=J2-72
+Added Pin To Net: NetName=A13 Pin=J2-74
+Added Pin To Net: NetName=B12 Pin=J2-76
+Added Pin To Net: NetName=C13 Pin=J2-78
+Added Pin To Net: NetName=B14 Pin=J2-80
+Added Pin To Net: NetName=D13 Pin=J2-82
+Added Pin To Net: NetName=C9 Pin=J2-84
+Added Pin To Net: NetName=D9 Pin=J2-86
+Added Pin To Net: NetName=VDD3.3 Pin=R21-2
+Added Pin To Net: NetName=VDD3.3 Pin=R22-2
+Added Pin To Net: NetName=VDD3.3 Pin=R23-2
+Added Pin To Net: NetName=VDD3.3 Pin=R24-2
+Added Pin To Net: NetName=GND Pin=SW10-4
+Added Pin To Net: NetName=GND Pin=SW11-4
+Added Pin To Net: NetName=GND Pin=SW12-4
+Added Pin To Net: NetName=GND Pin=SW13-4
+Change Net Name : Old Net Name=A9 New Net Name=D9
+Change Net Name : Old Net Name=A10 New Net Name=C9
+Change Net Name : Old Net Name=A13 New Net Name=B14
+Change Net Name : Old Net Name=B10 New Net Name=D13
+Change Net Name : Old Net Name=B12 New Net Name=C13
+Change Net Name : Old Net Name=B14 New Net Name=A13
+Change Net Name : Old Net Name=C9 New Net Name=A10
+Change Net Name : Old Net Name=C13 New Net Name=B12
+Change Net Name : Old Net Name=D9 New Net Name=A9
+Change Net Name : Old Net Name=D13 New Net Name=B10
+Added Pin To Net: NetName=NetLabel150 Pin=SW10-2
+Added Pin To Net: NetName=NetLabel150 Pin=SW11-2
+Added Pin To Net: NetName=NetLabel150 Pin=SW12-2
+Added Pin To Net: NetName=NetLabel150 Pin=SW13-2
+Added Net: Name=NetLabel150
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=SW10-1
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=SW11-1
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=SW12-1
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=SW13-1
+Added Net: Name=NetR24_1
+Added Member To Class: ClassName=SWITCHES Member=Component R21 10KR2F
+Added Member To Class: ClassName=SWITCHES Member=Component R22 10KR2F
+Added Member To Class: ClassName=SWITCHES Member=Component R23 10KR2F
+Added Member To Class: ClassName=SWITCHES Member=Component R24 10KR2F
+Added Member To Class: ClassName=SWITCHES Member=Component SW1 JS202011JCQN
+Added Member To Class: ClassName=SWITCHES Member=Component SW4 JS202011JCQN
+Added Member To Class: ClassName=SWITCHES Member=Component SW6 JS202011JCQN
+Added Member To Class: ClassName=SWITCHES Member=Component SW8 JS202011JCQN
+Added Member To Class: ClassName=SWITCHES Member=Component SW10 2-1977223-2
+Added Member To Class: ClassName=SWITCHES Member=Component SW11 2-1977223-2
+Added Member To Class: ClassName=SWITCHES Member=Component SW12 2-1977223-2
+Added Member To Class: ClassName=SWITCHES Member=Component SW13 2-1977223-2
