@@ -49,6 +49,242 @@ CrossRefFollowFromMainSettings=1
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[Document1]
+DocumentPath=VGA.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BOVKCQKY
+
+[Document2]
+DocumentPath=BreakoutBoardBOM.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document3]
+DocumentPath=..\..\..\..\Stephen\OneDrive\Documents\AltiumLL\SamacSys.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OYDHMSKY
+
+[Document4]
+DocumentPath=..\..\..\..\Stephen\OneDrive\Documents\AltiumLL\SamacSys.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GWOWKRAS
+
+[Document5]
+DocumentPath=Schlib1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HHJKMMCP
+
+[Document6]
+DocumentPath=FPGA_GPIO.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TKNLTDQD
+
+[Document7]
+DocumentPath=PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YEWVFNIY
+
+[Document8]
+DocumentPath=BOARD_GPIO.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QYWXPBAO
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard.GM
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Breakout Board\BreakoutBoard_Soldermask_Top.gbr
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -297,72 +533,84 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+Configuration1_Name1=ForceUpdateSettings
+Configuration1_Item1=False
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Record=DrillView|Units=Imperial|ZeroesMode=KeepLeadingAndTrailingZeroes|DocumentPath=C:\Users\Public\Documents\Altium\Breakout Board\BreakoutBoard.PcbDoc
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=Test Points
+OutputName4=Test Point Report
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Plane
+OutputName5=Power-Plane Prints
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+Configuration10_Name1=ForceUpdateSettings
+Configuration10_Item1=False
+Configuration10_Name2=OutputConfigurationParameter1
+Configuration10_Item2=BoardID=CUPHMKNO|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|UncheckPlotDrillDrawingPair0_Backdrill=False|UncheckPlotDrillDrawingPair0_Checked=False|UncheckPlotDrillDrawingPair0_DrillType=Regular|UncheckPlotDrillDrawingPair0_FileName= |UncheckPlotDrillDrawingPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingPair0_LowLayer=Top Layer|UncheckPlotDrillGuidePair0_Backdrill=False|UncheckPlotDrillGuidePair0_Checked=False|UncheckPlotDrillGuidePair0_DrillType=Regular|UncheckPlotDrillGuidePair0_FileName= |UncheckPlotDrillGuidePair0_HighLayer=Bottom Layer|UncheckPlotDrillGuidePair0_LowLayer=Top Layer|DocumentPath=C:\Users\Public\Documents\Altium\Breakout Board\BreakoutBoard.PcbDoc
+OutputType11=Final
+OutputName11=Final Artwork Prints
 OutputDocumentPath11=
 OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=CUPHMKNO|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=C:\Users\Public\Documents\Altium\Breakout Board\BreakoutBoard.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1022,6 +1270,48 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Any
+ComponentLibraryIdentifier0=
+ComponentDesignItemID0=L77HDE15SD1CH4FVGA
+ComponentSymbolReference0=L77HDE15SD1CH4FVGA
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Vault Name
+ComponentLibraryIdentifier1=Altium Content Vault
+ComponentDesignItemID1=CMP-02407-000403-1
+ComponentSymbolReference1=1029c3af85768c4190bb7ad29bc67b5
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Vault Name
+ComponentLibraryIdentifier2=Altium Content Vault
+ComponentDesignItemID2=CMP-02407-000539-1
+ComponentSymbolReference2=1029c3af85768c4190bb7ad29bc67b5
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Vault Name
+ComponentLibraryIdentifier3=Altium Content Vault
+ComponentDesignItemID3=CMP-03412-032644-1
+ComponentSymbolReference3=1029c3af85768c4190bb7ad29bc67b5
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Vault Name
+ComponentLibraryIdentifier4=Altium Content Vault
+ComponentDesignItemID4=CMP-03412-039220-1
+ComponentSymbolReference4=1029c3af85768c4190bb7ad29bc67b5
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Vault Name
+ComponentLibraryIdentifier5=Altium Content Vault
+ComponentDesignItemID5=CMP-2000-04767-2
+ComponentSymbolReference5=1029c3af85768c4190bb7ad29bc67b5
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Vault Name
+ComponentLibraryIdentifier6=Altium Content Vault
+ComponentDesignItemID6=CMP-2000-04803-2
+ComponentSymbolReference6=1029c3af85768c4190bb7ad29bc67b5
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1035,6 +1325,171 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Arrow Part Number
+ParameterUpdate0=1
+ParameterName1=Arrow Price/Stock
+ParameterUpdate1=1
+ParameterName2=Automotive
+ParameterUpdate2=1
+ParameterName3=Case Code (Imperial)
+ParameterUpdate3=1
+ParameterName4=Case Code (Metric)
+ParameterUpdate4=1
+ParameterName5=Case/Package
+ParameterUpdate5=1
+ParameterName6=Category
+ParameterUpdate6=1
+ParameterName7=Comment
+ParameterUpdate7=1
+ParameterName8=Component Kind
+ParameterUpdate8=1
+ParameterName9=ComponentLink2Description
+ParameterUpdate9=1
+ParameterName10=ComponentLink2URL
+ParameterUpdate10=1
+ParameterName11=Composition
+ParameterUpdate11=1
+ParameterName12=Contact Plating
+ParameterUpdate12=1
+ParameterName13=Datasheet Link
+ParameterUpdate13=1
+ParameterName14=Depth
+ParameterUpdate14=1
+ParameterName15=Description
+ParameterUpdate15=1
+ParameterName16=Device Class L1
+ParameterUpdate16=1
+ParameterName17=Device Class L2
+ParameterUpdate17=1
+ParameterName18=Device Class L3
+ParameterUpdate18=1
+ParameterName19=Digikey Description
+ParameterUpdate19=1
+ParameterName20=Features
+ParameterUpdate20=1
+ParameterName21=Footprint Url
+ParameterUpdate21=1
+ParameterName22=Height
+ParameterUpdate22=1
+ParameterName23=Ipc Land Pattern Name
+ParameterUpdate23=1
+ParameterName24=Lead Free
+ParameterUpdate24=1
+ParameterName25=Length
+ParameterUpdate25=1
+ParameterName26=Library Reference
+ParameterUpdate26=1
+ParameterName27=Manufacturer
+ParameterUpdate27=1
+ParameterName28=Manufacturer Part Number
+ParameterUpdate28=1
+ParameterName29=Manufacturer_Name
+ParameterUpdate29=1
+ParameterName30=Manufacturer_Part_Number
+ParameterUpdate30=1
+ParameterName31=Max Operating Temperature
+ParameterUpdate31=1
+ParameterName32=Max Power Dissipation
+ParameterUpdate32=1
+ParameterName33=Military Standard
+ParameterUpdate33=1
+ParameterName34=Min Operating Temperature
+ParameterUpdate34=1
+ParameterName35=Mount
+ParameterUpdate35=1
+ParameterName36=Mouser Description
+ParameterUpdate36=1
+ParameterName37=Mouser Part Number
+ParameterUpdate37=1
+ParameterName38=Mouser Price/Stock
+ParameterUpdate38=1
+ParameterName39=Number of Terminations
+ParameterUpdate39=1
+ParameterName40=Octopart
+ParameterUpdate40=1
+ParameterName41=Package
+ParameterUpdate41=1
+ParameterName42=Package Quantity
+ParameterUpdate42=1
+ParameterName43=Packaging
+ParameterUpdate43=1
+ParameterName44=Power Rating
+ParameterUpdate44=1
+ParameterName45=Radiation Hardening
+ParameterUpdate45=1
+ParameterName46=Ratings
+ParameterUpdate46=1
+ParameterName47=REACH SVHC
+ParameterUpdate47=1
+ParameterName48=Resistance
+ParameterUpdate48=1
+ParameterName49=Resistor Type
+ParameterUpdate49=1
+ParameterName50=RoHS
+ParameterUpdate50=1
+ParameterName51=RoHS Compliant
+ParameterUpdate51=1
+ParameterName52=Series
+ParameterUpdate52=1
+ParameterName53=Temperature
+ParameterUpdate53=1
+ParameterName54=Temperature Coefficient
+ParameterUpdate54=1
+ParameterName55=Temperature Range High
+ParameterUpdate55=1
+ParameterName56=Temperature Range Low
+ParameterUpdate56=1
+ParameterName57=Tolerance
+ParameterUpdate57=1
+ParameterName58=Value
+ParameterUpdate58=1
+ParameterName59=Voltage Rating
+ParameterUpdate59=1
+ParameterName60=Voltage Rating (DC)
+ParameterUpdate60=1
+ParameterName61=Width
+ParameterUpdate61=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=FP-AT0603-IPC_A
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=FP-AT0603-IPC_B
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=FP-AT0603-IPC_C
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=FP-AT0603-MFG
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=FP-MCT0603-IPC_A
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=FP-MCT0603-IPC_B
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=FP-MCT0603-IPC_C
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=FP-MCT0603-MFG
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=FP-RT0603-IPC_A
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=FP-RT0603-IPC_B
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=FP-RT0603-IPC_C
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=FP-RT0603-MFG
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=L77HDE15SD1CH4FVGA
+ModelUpdate12=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

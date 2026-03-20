@@ -1,0 +1,260 @@
+Removed Pin From Net: NetName=GND Pin=J4-5
+Removed Pin From Net: NetName=GND Pin=J4-6
+Removed Pin From Net: NetName=GND Pin=J4-7
+Removed Pin From Net: NetName=GND Pin=J4-8
+Removed Pin From Net: NetName=GND Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-13
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-81
+Added Pin To Net: NetName=GND Pin=J3-82
+Added Pin To Net: NetName=64_L1_N Pin=J1-40
+Added Net: Name=64_L1_N
+Added Pin To Net: NetName=64_L1_P Pin=J1-39
+Added Net: Name=64_L1_P
+Added Pin To Net: NetName=64_L2_N Pin=J1-47
+Added Net: Name=64_L2_N
+Added Pin To Net: NetName=64_L2_P Pin=J1-48
+Added Net: Name=64_L2_P
+Added Pin To Net: NetName=64_L3_N Pin=J1-46
+Added Net: Name=64_L3_N
+Added Pin To Net: NetName=64_L3_P Pin=J1-45
+Added Net: Name=64_L3_P
+Added Pin To Net: NetName=64_L4_N Pin=J1-38
+Added Net: Name=64_L4_N
+Added Pin To Net: NetName=64_L4_P Pin=J1-37
+Added Net: Name=64_L4_P
+Added Pin To Net: NetName=64_L5_N Pin=J1-49
+Added Net: Name=64_L5_N
+Added Pin To Net: NetName=64_L5_P Pin=J1-50
+Added Net: Name=64_L5_P
+Added Pin To Net: NetName=64_L6_N Pin=J1-35
+Added Net: Name=64_L6_N
+Added Pin To Net: NetName=64_L6_P Pin=J1-36
+Added Net: Name=64_L6_P
+Added Pin To Net: NetName=64_L7_N Pin=J1-56
+Added Net: Name=64_L7_N
+Added Pin To Net: NetName=64_L7_P Pin=J1-55
+Added Net: Name=64_L7_P
+Added Pin To Net: NetName=64_L9_N Pin=J1-53
+Added Net: Name=64_L9_N
+Added Pin To Net: NetName=64_L9_P Pin=J1-54
+Added Net: Name=64_L9_P
+Added Pin To Net: NetName=64_L11_N Pin=J1-58
+Added Net: Name=64_L11_N
+Added Pin To Net: NetName=64_L11_P Pin=J1-57
+Added Net: Name=64_L11_P
+Added Pin To Net: NetName=64_L12_N Pin=J1-52
+Added Net: Name=64_L12_N
+Added Pin To Net: NetName=64_L12_P Pin=J1-51
+Added Net: Name=64_L12_P
+Added Pin To Net: NetName=64_L13_N Pin=J1-71
+Added Net: Name=64_L13_N
+Added Pin To Net: NetName=64_L13_P Pin=J1-72
+Added Net: Name=64_L13_P
+Added Pin To Net: NetName=64_L14_N Pin=J1-73
+Added Net: Name=64_L14_N
+Added Pin To Net: NetName=64_L14_P Pin=J1-74
+Added Net: Name=64_L14_P
+Added Pin To Net: NetName=64_L15_N Pin=J1-61
+Added Net: Name=64_L15_N
+Added Pin To Net: NetName=64_L15_P Pin=J1-62
+Added Net: Name=64_L15_P
+Added Pin To Net: NetName=64_L16_N Pin=J1-67
+Added Net: Name=64_L16_N
+Added Pin To Net: NetName=64_L16_P Pin=J1-68
+Added Net: Name=64_L16_P
+Added Pin To Net: NetName=64_L17_N Pin=J1-66
+Added Net: Name=64_L17_N
+Added Pin To Net: NetName=64_L17_P Pin=J1-65
+Added Net: Name=64_L17_P
+Added Pin To Net: NetName=64_L18_N Pin=J1-75
+Added Net: Name=64_L18_N
+Added Pin To Net: NetName=64_L18_P Pin=J1-76
+Added Net: Name=64_L18_P
+Added Pin To Net: NetName=64_L19_N Pin=J1-33
+Added Net: Name=64_L19_N
+Added Pin To Net: NetName=64_L19_P Pin=J1-34
+Added Net: Name=64_L19_P
+Added Pin To Net: NetName=64_L21_N Pin=J1-63
+Added Net: Name=64_L21_N
+Added Pin To Net: NetName=64_L21_P Pin=J1-64
+Added Net: Name=64_L21_P
+Added Pin To Net: NetName=64_L22_N Pin=J1-69
+Added Net: Name=64_L22_N
+Added Pin To Net: NetName=64_L22_P Pin=J1-70
+Added Net: Name=64_L22_P
+Added Pin To Net: NetName=64_L23_N Pin=J1-77
+Added Net: Name=64_L23_N
+Added Pin To Net: NetName=64_L23_P Pin=J1-78
+Added Net: Name=64_L23_P
+Added Pin To Net: NetName=64_L24_N Pin=J1-60
+Added Net: Name=64_L24_N
+Added Pin To Net: NetName=64_L24_P Pin=J1-59
+Added Net: Name=64_L24_P
+Added Pin To Net: NetName=65_L16_N Pin=J1-43
+Added Net: Name=65_L16_N
+Added Pin To Net: NetName=65_L16_P Pin=J1-44
+Added Net: Name=65_L16_P
+Added Pin To Net: NetName=65_L17_N Pin=J3-21
+Added Net: Name=65_L17_N
+Added Pin To Net: NetName=65_L17_P Pin=J3-22
+Added Net: Name=65_L17_P
+Added Pin To Net: NetName=65_L18_N Pin=J1-42
+Added Net: Name=65_L18_N
+Added Pin To Net: NetName=65_L18_P Pin=J1-41
+Added Net: Name=65_L18_P
+Added Pin To Net: NetName=65_L20_N Pin=J3-55
+Added Net: Name=65_L20_N
+Added Pin To Net: NetName=65_L20_P Pin=J3-56
+Added Net: Name=65_L20_P
+Added Pin To Net: NetName=65_L21_N Pin=J1-32
+Added Net: Name=65_L21_N
+Added Pin To Net: NetName=65_L21_P Pin=J1-31
+Added Net: Name=65_L21_P
+Added Pin To Net: NetName=65_L22_N Pin=J1-30
+Added Net: Name=65_L22_N
+Added Pin To Net: NetName=65_L22_P Pin=J1-29
+Added Net: Name=65_L22_P
+Added Pin To Net: NetName=65_L23_N Pin=J3-62
+Added Net: Name=65_L23_N
+Added Pin To Net: NetName=65_L23_P Pin=J3-61
+Added Net: Name=65_L23_P
+Added Pin To Net: NetName=65_L24_N Pin=J3-33
+Added Net: Name=65_L24_N
+Added Pin To Net: NetName=65_L24_P Pin=J3-34
+Added Net: Name=65_L24_P
+Added Pin To Net: NetName=66_L5_N Pin=J3-43
+Added Net: Name=66_L5_N
+Added Pin To Net: NetName=66_L5_P Pin=J3-44
+Added Net: Name=66_L5_P
+Added Pin To Net: NetName=66_L8_N Pin=J1-26
+Added Net: Name=66_L8_N
+Added Pin To Net: NetName=66_L8_P Pin=J1-25
+Added Net: Name=66_L8_P
+Added Pin To Net: NetName=66_L9_N Pin=J3-23
+Added Net: Name=66_L9_N
+Added Pin To Net: NetName=66_L9_P Pin=J3-24
+Added Net: Name=66_L9_P
+Added Pin To Net: NetName=66_L10_N Pin=J1-28
+Added Net: Name=66_L10_N
+Added Pin To Net: NetName=66_L10_P Pin=J1-27
+Added Net: Name=66_L10_P
+Added Pin To Net: NetName=66_L15_N Pin=J3-25
+Added Net: Name=66_L15_N
+Added Pin To Net: NetName=66_L15_P Pin=J3-26
+Added Net: Name=66_L15_P
+Added Pin To Net: NetName=66_L17_N Pin=J3-28
+Added Net: Name=66_L17_N
+Added Pin To Net: NetName=66_L17_P Pin=J3-27
+Added Net: Name=66_L17_P
+Added Pin To Net: NetName=67_L1_N Pin=J3-80
+Added Net: Name=67_L1_N
+Added Pin To Net: NetName=67_L1_P Pin=J3-79
+Added Net: Name=67_L1_P
+Added Pin To Net: NetName=67_L2_N Pin=J3-70
+Added Net: Name=67_L2_N
+Added Pin To Net: NetName=67_L2_P Pin=J3-69
+Added Net: Name=67_L2_P
+Added Pin To Net: NetName=67_L3_N Pin=J3-78
+Added Net: Name=67_L3_N
+Added Pin To Net: NetName=67_L3_P Pin=J3-77
+Added Net: Name=67_L3_P
+Added Pin To Net: NetName=67_L4_N Pin=J3-57
+Added Net: Name=67_L4_N
+Added Pin To Net: NetName=67_L4_P Pin=J3-58
+Added Net: Name=67_L4_P
+Added Pin To Net: NetName=67_L5_N Pin=J3-72
+Added Net: Name=67_L5_N
+Added Pin To Net: NetName=67_L5_P Pin=J3-71
+Added Net: Name=67_L5_P
+Added Pin To Net: NetName=67_L6_N Pin=J3-68
+Added Net: Name=67_L6_N
+Added Pin To Net: NetName=67_L6_P Pin=J3-67
+Added Net: Name=67_L6_P
+Added Pin To Net: NetName=67_L7_N Pin=J3-76
+Added Net: Name=67_L7_N
+Added Pin To Net: NetName=67_L7_P Pin=J3-75
+Added Net: Name=67_L7_P
+Added Pin To Net: NetName=67_L9_N Pin=J3-41
+Added Net: Name=67_L9_N
+Added Pin To Net: NetName=67_L9_P Pin=J3-42
+Added Net: Name=67_L9_P
+Added Pin To Net: NetName=67_L10_N Pin=J3-45
+Added Net: Name=67_L10_N
+Added Pin To Net: NetName=67_L10_P Pin=J3-46
+Added Net: Name=67_L10_P
+Added Pin To Net: NetName=67_L12_N Pin=J3-53
+Added Net: Name=67_L12_N
+Added Pin To Net: NetName=67_L12_P Pin=J3-54
+Added Net: Name=67_L12_P
+Added Pin To Net: NetName=67_L13_N Pin=J3-51
+Added Net: Name=67_L13_N
+Added Pin To Net: NetName=67_L13_P Pin=J3-52
+Added Net: Name=67_L13_P
+Added Pin To Net: NetName=67_L14_N Pin=J3-49
+Added Net: Name=67_L14_N
+Added Pin To Net: NetName=67_L14_P Pin=J3-50
+Added Net: Name=67_L14_P
+Added Pin To Net: NetName=67_L15_N Pin=J3-66
+Added Net: Name=67_L15_N
+Added Pin To Net: NetName=67_L15_P Pin=J3-65
+Added Net: Name=67_L15_P
+Added Pin To Net: NetName=67_L16_N Pin=J3-60
+Added Net: Name=67_L16_N
+Added Pin To Net: NetName=67_L16_P Pin=J3-59
+Added Net: Name=67_L16_P
+Added Pin To Net: NetName=67_L17_N Pin=J3-74
+Added Net: Name=67_L17_N
+Added Pin To Net: NetName=67_L17_P Pin=J3-73
+Added Net: Name=67_L17_P
+Added Pin To Net: NetName=67_L18_N Pin=J3-47
+Added Net: Name=67_L18_N
+Added Pin To Net: NetName=67_L18_P Pin=J3-48
+Added Net: Name=67_L18_P
+Added Pin To Net: NetName=67_L19_N Pin=J3-31
+Added Net: Name=67_L19_N
+Added Pin To Net: NetName=67_L19_P Pin=J3-32
+Added Net: Name=67_L19_P
+Added Pin To Net: NetName=67_L20_N Pin=J3-39
+Added Net: Name=67_L20_N
+Added Pin To Net: NetName=67_L20_P Pin=J3-40
+Added Net: Name=67_L20_P
+Added Pin To Net: NetName=67_L22_N Pin=J3-37
+Added Net: Name=67_L22_N
+Added Pin To Net: NetName=67_L22_P Pin=J3-38
+Added Net: Name=67_L22_P
+Added Pin To Net: NetName=67_L23_N Pin=J3-29
+Added Net: Name=67_L23_N
+Added Pin To Net: NetName=67_L23_P Pin=J3-30
+Added Net: Name=67_L23_P
+Added Pin To Net: NetName=67_L24_N Pin=J3-35
+Added Net: Name=67_L24_N
+Added Pin To Net: NetName=67_L24_P Pin=J3-36
+Added Net: Name=67_L24_P
+Added Pin To Net: NetName=ADC_VN Pin=J3-63
+Added Net: Name=ADC_VN
+Added Pin To Net: NetName=ADC_VP Pin=J3-64
+Added Net: Name=ADC_VP
+Added Pin To Net: NetName=VDD3.3 Pin=J1-15
+Added Pin To Net: NetName=VDD3.3 Pin=J1-16
+Added Net: Name=VDD3.3
+Added Pin To Net: NetName=VDD12 Pin=J1-7
+Added Pin To Net: NetName=VDD12 Pin=J1-8
+Added Pin To Net: NetName=VDD12 Pin=J1-9
+Added Pin To Net: NetName=VDD12 Pin=J1-10
+Added Pin To Net: NetName=VDD12 Pin=J1-11
+Added Pin To Net: NetName=VDD12 Pin=J1-12
+Added Net: Name=VDD12
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

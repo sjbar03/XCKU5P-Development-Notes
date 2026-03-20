@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Breakout Board.PrjPcb]
+   Generated File[BreakoutBoard-Plated.TXT]
+   Generated File[BreakoutBoard.LDP]
+   Generated File[BreakoutBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:20:31 AM On 3/17/2026

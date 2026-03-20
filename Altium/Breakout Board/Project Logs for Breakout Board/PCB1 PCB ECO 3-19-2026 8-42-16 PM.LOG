@@ -1,0 +1,134 @@
+Added Pin To Net: NetName=A9 Pin=J2-86
+Added Net: Name=A9
+Added Pin To Net: NetName=A10 Pin=J2-84
+Added Net: Name=A10
+Added Pin To Net: NetName=A12 Pin=J2-81
+Added Net: Name=A12
+Added Pin To Net: NetName=A13 Pin=J2-80
+Added Net: Name=A13
+Added Pin To Net: NetName=A14 Pin=J2-75
+Added Net: Name=A14
+Added Pin To Net: NetName=AA13 Pin=J2-31
+Added Net: Name=AA13
+Added Pin To Net: NetName=AA14 Pin=J2-32
+Added Net: Name=AA14
+Added Pin To Net: NetName=AB14 Pin=J2-29
+Added Net: Name=AB14
+Added Pin To Net: NetName=AB16 Pin=J2-30
+Added Net: Name=AB16
+Added Pin To Net: NetName=AC13 Pin=J2-27
+Added Net: Name=AC13
+Added Pin To Net: NetName=AC14 Pin=J2-28
+Added Net: Name=AC14
+Added Pin To Net: NetName=AD13 Pin=J2-25
+Added Net: Name=AD13
+Added Pin To Net: NetName=AD14 Pin=J2-26
+Added Net: Name=AD14
+Added Pin To Net: NetName=AD15 Pin=J2-20
+Added Net: Name=AD15
+Added Pin To Net: NetName=AE13 Pin=J2-23
+Added Net: Name=AE13
+Added Pin To Net: NetName=AE15 Pin=J2-24
+Added Net: Name=AE15
+Added Pin To Net: NetName=AF13 Pin=J2-21
+Added Net: Name=AF13
+Added Pin To Net: NetName=AF14 Pin=J2-22
+Added Net: Name=AF14
+Added Pin To Net: NetName=AF15 Pin=J2-19
+Added Net: Name=AF15
+Added Pin To Net: NetName=B9 Pin=J2-83
+Added Net: Name=B9
+Added Pin To Net: NetName=B10 Pin=J2-82
+Added Net: Name=B10
+Added Pin To Net: NetName=B11 Pin=J2-79
+Added Net: Name=B11
+Added Pin To Net: NetName=B12 Pin=J2-78
+Added Net: Name=B12
+Added Pin To Net: NetName=B14 Pin=J2-74
+Added Net: Name=B14
+Added Pin To Net: NetName=C9 Pin=J2-70
+Added Net: Name=C9
+Added Pin To Net: NetName=C11 Pin=J2-69
+Added Net: Name=C11
+Added Pin To Net: NetName=C12 Pin=J2-77
+Added Net: Name=C12
+Added Pin To Net: NetName=C13 Pin=J2-76
+Added Net: Name=C13
+Added Pin To Net: NetName=C14 Pin=J2-73
+Added Net: Name=C14
+Added Pin To Net: NetName=D9 Pin=J2-68
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=J2-67
+Added Net: Name=D10
+Added Pin To Net: NetName=D11 Pin=J2-61
+Added Net: Name=D11
+Added Pin To Net: NetName=D13 Pin=J2-72
+Added Net: Name=D13
+Added Pin To Net: NetName=D14 Pin=J2-71
+Added Net: Name=D14
+Added Pin To Net: NetName=E10 Pin=J2-66
+Added Net: Name=E10
+Added Pin To Net: NetName=E11 Pin=J2-65
+Added Net: Name=E11
+Added Pin To Net: NetName=E12 Pin=J2-62
+Added Net: Name=E12
+Added Pin To Net: NetName=F9 Pin=J2-64
+Added Net: Name=F9
+Added Pin To Net: NetName=F10 Pin=J2-63
+Added Net: Name=F10
+Added Pin To Net: NetName=F12 Pin=J2-57
+Added Net: Name=F12
+Added Pin To Net: NetName=F13 Pin=J2-58
+Added Net: Name=F13
+Added Pin To Net: NetName=F14 Pin=J2-60
+Added Net: Name=F14
+Added Pin To Net: NetName=G9 Pin=J2-45
+Added Net: Name=G9
+Added Pin To Net: NetName=G10 Pin=J2-46
+Added Net: Name=G10
+Added Pin To Net: NetName=G11 Pin=J2-55
+Added Net: Name=G11
+Added Pin To Net: NetName=G12 Pin=J2-56
+Added Net: Name=G12
+Added Pin To Net: NetName=G14 Pin=J2-59
+Added Net: Name=G14
+Added Pin To Net: NetName=H9 Pin=J2-43
+Added Net: Name=H9
+Added Pin To Net: NetName=H11 Pin=J2-50
+Added Net: Name=H11
+Added Pin To Net: NetName=H12 Pin=J2-44
+Added Net: Name=H12
+Added Pin To Net: NetName=H13 Pin=J2-51
+Added Net: Name=H13
+Added Pin To Net: NetName=H14 Pin=J2-52
+Added Net: Name=H14
+Added Pin To Net: NetName=J9 Pin=J2-41
+Added Net: Name=J9
+Added Pin To Net: NetName=J10 Pin=J2-42
+Added Net: Name=J10
+Added Pin To Net: NetName=J11 Pin=J2-49
+Added Net: Name=J11
+Added Pin To Net: NetName=J12 Pin=J2-47
+Added Net: Name=J12
+Added Pin To Net: NetName=J13 Pin=J2-48
+Added Net: Name=J13
+Added Pin To Net: NetName=J14 Pin=J2-53
+Added Net: Name=J14
+Added Pin To Net: NetName=J15 Pin=J2-54
+Added Net: Name=J15
+Added Pin To Net: NetName=K9 Pin=J2-39
+Added Net: Name=K9
+Added Pin To Net: NetName=K10 Pin=J2-40
+Added Net: Name=K10
+Added Pin To Net: NetName=W12 Pin=J2-38
+Added Net: Name=W12
+Added Pin To Net: NetName=W13 Pin=J2-37
+Added Net: Name=W13
+Added Pin To Net: NetName=W14 Pin=J2-36
+Added Net: Name=W14
+Added Pin To Net: NetName=W15 Pin=J2-35
+Added Net: Name=W15
+Added Pin To Net: NetName=Y15 Pin=J2-34
+Added Net: Name=Y15
+Added Pin To Net: NetName=Y16 Pin=J2-33
+Added Net: Name=Y16
