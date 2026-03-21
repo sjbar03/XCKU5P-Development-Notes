@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=D9 Pin=J2-68
+Removed Pin From Net: NetName=C9 Pin=J2-70
+Removed Pin From Net: NetName=D13 Pin=J2-72
+Removed Pin From Net: NetName=B14 Pin=J2-74
+Removed Pin From Net: NetName=C13 Pin=J2-76
+Removed Pin From Net: NetName=B12 Pin=J2-78
+Removed Pin From Net: NetName=A13 Pin=J2-80
+Removed Pin From Net: NetName=B10 Pin=J2-82
+Removed Pin From Net: NetName=A10 Pin=J2-84
+Removed Pin From Net: NetName=A9 Pin=J2-86
+Removed Pin From Net: NetName=VDD3.3 Pin=J6-4
+Removed Pin From Net: NetName=B9 Pin=R21-1
+Removed Pin From Net: NetName=A12 Pin=R22-1
+Removed Pin From Net: NetName=B11 Pin=R23-1
+Removed Pin From Net: NetName=C12 Pin=R24-1
+Removed Pin From Net: NetName=B9 Pin=SW10-1
+Removed Pin From Net: NetName=A12 Pin=SW11-1
+Removed Pin From Net: NetName=B11 Pin=SW12-1
+Removed Pin From Net: NetName=C12 Pin=SW13-1
+Added Component: Designator=J5(SMTC-SSQ-114-01-X-D)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/SSQ_TH.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/SSQ-1XX-XX-XXX-X-XX-XXX-XX-X-MKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Assembly, Socket Strip .025[0.64] SQ Tail"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SSQ-114-01-X-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "BD, 6/1987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SSQ-114-01-L-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A9 Pin=J2-68
+Added Pin To Net: NetName=A10 Pin=J2-70
+Added Pin To Net: NetName=B10 Pin=J2-72
+Added Pin To Net: NetName=A13 Pin=J2-74
+Added Pin To Net: NetName=B12 Pin=J2-76
+Added Pin To Net: NetName=C13 Pin=J2-78
+Added Pin To Net: NetName=B14 Pin=J2-80
+Added Pin To Net: NetName=D13 Pin=J2-82
+Added Pin To Net: NetName=C9 Pin=J2-84
+Added Pin To Net: NetName=D9 Pin=J2-86
+Added Pin To Net: NetName=3_3V Pin=J6-4
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR21_1 Pin=SW10-1
+Added Pin To Net: NetName=NetR22_1 Pin=SW11-1
+Added Pin To Net: NetName=NetR23_1 Pin=SW12-1
+Added Pin To Net: NetName=NetR24_1 Pin=SW13-1
+Change Net Name : Old Net Name=A9 New Net Name=D9
+Change Net Name : Old Net Name=A10 New Net Name=C9
+Change Net Name : Old Net Name=A13 New Net Name=B14
+Change Net Name : Old Net Name=B10 New Net Name=D13
+Change Net Name : Old Net Name=B12 New Net Name=C13
+Change Net Name : Old Net Name=B14 New Net Name=A13
+Change Net Name : Old Net Name=C9 New Net Name=A10
+Change Net Name : Old Net Name=C13 New Net Name=B12
+Change Net Name : Old Net Name=D9 New Net Name=A9
+Change Net Name : Old Net Name=D13 New Net Name=B10
+Added Class: Name=BOARD_GPIO

@@ -1,0 +1,16 @@
+Remove Pin=J6-4 From Net=3_3V
+Remove Pin=SW10-2 From Net=B9
+Remove Pin=SW11-2 From Net=A12
+Remove Pin=SW12-2 From Net=B11
+Remove Pin=SW13-2 From Net=C12
+Add Pin To Net: Pin=J6-4 Old Net=3_3V New Net=VDD3.3
+Add Pin To Net: Pin=SW10-2 Old Net=B9 New Net=E11
+Add Pin To Net: Pin=SW11-2 Old Net=A12 New Net=F10
+Add Pin To Net: Pin=SW12-2 Old Net=B11 New Net=D11
+Add Pin To Net: Pin=SW13-2 Old Net=C12 New Net=G14
+Change Pin Designator/Name:  Old Designator=J2-62 Old Name=62 New Designator =68 New Name=68
+Change Pin Designator/Name:  Old Designator=J2-64 Old Name=64 New Designator =70 New Name=70
+Change Pin Designator/Name:  Old Designator=J2-66 Old Name=66 New Designator =72 New Name=72
+Change Pin Designator/Name:  Old Designator=J2-68 Old Name=68 New Designator =62 New Name=62
+Change Pin Designator/Name:  Old Designator=J2-70 Old Name=70 New Designator =64 New Name=64
+Change Pin Designator/Name:  Old Designator=J2-72 Old Name=72 New Designator =66 New Name=66

@@ -1,0 +1,516 @@
+Removed Pin From Net: NetName=NetLED7_1 Pin=R25-1
+Removed Pin From Net: NetName=VDD3.3 Pin=R25-2
+Removed Pin From Net: NetName=NetLED6_1 Pin=R26-1
+Removed Pin From Net: NetName=VDD3.3 Pin=R26-2
+Removed Pin From Net: NetName=NetLED5_1 Pin=R27-1
+Removed Pin From Net: NetName=VDD3.3 Pin=R27-2
+Removed Pin From Net: NetName=NetLED4_1 Pin=R28-1
+Removed Pin From Net: NetName=VDD3.3 Pin=R28-2
+Removed Pin From Net: NetName=NetLED3_1 Pin=R29-1
+Removed Pin From Net: NetName=VDD3.3 Pin=R29-2
+Removed Pin From Net: NetName=NetLED2_1 Pin=R30-1
+Removed Pin From Net: NetName=VDD3.3 Pin=R30-2
+Removed Pin From Net: NetName=NetLED1_1 Pin=R31-1
+Removed Pin From Net: NetName=VDD3.3 Pin=R31-2
+Removed Pin From Net: NetName=NetLED0_1 Pin=R32-1
+Removed Pin From Net: NetName=VDD3.3 Pin=R32-2
+Change Component Footprint: Designator=R11 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R12 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R13 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R14 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R15 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R16 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R17 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R18 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R19 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R20 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R21 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R22 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R23 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R24 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R25 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R26 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R27 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R28 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R29 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R30 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R31 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Footprint: Designator=R32 Old Footprint=RESC0402(1005)_L New Footprint=RES-0402
+Change Component Comment : Designator=R11 Old Comment=10KR2F New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R12 Old Comment=10KR2F New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R13 Old Comment=10KR2F New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R14 Old Comment=10KR2F New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R15 Old Comment=10KR2F New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R16 Old Comment=10KR2F New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R17 Old Comment=10KR2F New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R18 Old Comment=10KR2F New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R19 Old Comment=10KR2F New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R20 Old Comment=10KR2F New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R21 Old Comment=10KR2F New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R22 Old Comment=10KR2F New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R23 Old Comment=10KR2F New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R24 Old Comment=10KR2F New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R25 Old Comment=Resistor 200R +/-5 % 0402 63 mW New Comment=0402WGF2000TCE
+Change Component Comment : Designator=R26 Old Comment=Resistor 200R +/-5 % 0402 63 mW New Comment=0402WGF2000TCE
+Change Component Comment : Designator=R27 Old Comment=Resistor 200R +/-5 % 0402 63 mW New Comment=0402WGF2000TCE
+Change Component Comment : Designator=R28 Old Comment=Resistor 200R +/-5 % 0402 63 mW New Comment=0402WGF2000TCE
+Change Component Comment : Designator=R29 Old Comment=Resistor 200R +/-5 % 0402 63 mW New Comment=0402WGF2000TCE
+Change Component Comment : Designator=R30 Old Comment=Resistor 200R +/-5 % 0402 63 mW New Comment=0402WGF2000TCE
+Change Component Comment : Designator=R31 Old Comment=Resistor 200R +/-5 % 0402 63 mW New Comment=0402WGF2000TCE
+Change Component Comment : Designator=R32 Old Comment=Resistor 200R +/-5 % 0402 63 mW New Comment=0402WGF2000TCE
+Change Managed Component Library Link : Designator=R11 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=C4FD72F0-22BF-4CC7-B7D4-DFA876D3962F New ItemGUID= Old RevisionGUID=4E8B635E-2A36-4A05-AF65-09E56F55E2E8 New RevisionGUID=
+Change Managed Component Library Link : Designator=R12 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=C4FD72F0-22BF-4CC7-B7D4-DFA876D3962F New ItemGUID= Old RevisionGUID=4E8B635E-2A36-4A05-AF65-09E56F55E2E8 New RevisionGUID=
+Change Managed Component Library Link : Designator=R13 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=C4FD72F0-22BF-4CC7-B7D4-DFA876D3962F New ItemGUID= Old RevisionGUID=4E8B635E-2A36-4A05-AF65-09E56F55E2E8 New RevisionGUID=
+Change Managed Component Library Link : Designator=R14 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=C4FD72F0-22BF-4CC7-B7D4-DFA876D3962F New ItemGUID= Old RevisionGUID=4E8B635E-2A36-4A05-AF65-09E56F55E2E8 New RevisionGUID=
+Change Managed Component Library Link : Designator=R15 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=C4FD72F0-22BF-4CC7-B7D4-DFA876D3962F New ItemGUID= Old RevisionGUID=4E8B635E-2A36-4A05-AF65-09E56F55E2E8 New RevisionGUID=
+Change Managed Component Library Link : Designator=R16 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=C4FD72F0-22BF-4CC7-B7D4-DFA876D3962F New ItemGUID= Old RevisionGUID=4E8B635E-2A36-4A05-AF65-09E56F55E2E8 New RevisionGUID=
+Change Managed Component Library Link : Designator=R17 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=C4FD72F0-22BF-4CC7-B7D4-DFA876D3962F New ItemGUID= Old RevisionGUID=4E8B635E-2A36-4A05-AF65-09E56F55E2E8 New RevisionGUID=
+Change Managed Component Library Link : Designator=R18 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=C4FD72F0-22BF-4CC7-B7D4-DFA876D3962F New ItemGUID= Old RevisionGUID=4E8B635E-2A36-4A05-AF65-09E56F55E2E8 New RevisionGUID=
+Change Managed Component Library Link : Designator=R19 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=C4FD72F0-22BF-4CC7-B7D4-DFA876D3962F New ItemGUID= Old RevisionGUID=4E8B635E-2A36-4A05-AF65-09E56F55E2E8 New RevisionGUID=
+Change Managed Component Library Link : Designator=R20 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=C4FD72F0-22BF-4CC7-B7D4-DFA876D3962F New ItemGUID= Old RevisionGUID=4E8B635E-2A36-4A05-AF65-09E56F55E2E8 New RevisionGUID=
+Change Managed Component Library Link : Designator=R21 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=C4FD72F0-22BF-4CC7-B7D4-DFA876D3962F New ItemGUID= Old RevisionGUID=4E8B635E-2A36-4A05-AF65-09E56F55E2E8 New RevisionGUID=
+Change Managed Component Library Link : Designator=R22 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=C4FD72F0-22BF-4CC7-B7D4-DFA876D3962F New ItemGUID= Old RevisionGUID=4E8B635E-2A36-4A05-AF65-09E56F55E2E8 New RevisionGUID=
+Change Managed Component Library Link : Designator=R23 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=C4FD72F0-22BF-4CC7-B7D4-DFA876D3962F New ItemGUID= Old RevisionGUID=4E8B635E-2A36-4A05-AF65-09E56F55E2E8 New RevisionGUID=
+Change Managed Component Library Link : Designator=R24 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=C4FD72F0-22BF-4CC7-B7D4-DFA876D3962F New ItemGUID= Old RevisionGUID=4E8B635E-2A36-4A05-AF65-09E56F55E2E8 New RevisionGUID=
+Change Managed Component Library Link : Designator=R25 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=35293A42-33B2-451F-BFA2-A38D6E22CB6A New ItemGUID= Old RevisionGUID=B26ED63F-E02C-467E-BC04-C31BE709A851 New RevisionGUID=
+Change Managed Component Library Link : Designator=R26 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=35293A42-33B2-451F-BFA2-A38D6E22CB6A New ItemGUID= Old RevisionGUID=B26ED63F-E02C-467E-BC04-C31BE709A851 New RevisionGUID=
+Change Managed Component Library Link : Designator=R27 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=35293A42-33B2-451F-BFA2-A38D6E22CB6A New ItemGUID= Old RevisionGUID=B26ED63F-E02C-467E-BC04-C31BE709A851 New RevisionGUID=
+Change Managed Component Library Link : Designator=R28 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=35293A42-33B2-451F-BFA2-A38D6E22CB6A New ItemGUID= Old RevisionGUID=B26ED63F-E02C-467E-BC04-C31BE709A851 New RevisionGUID=
+Change Managed Component Library Link : Designator=R29 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=35293A42-33B2-451F-BFA2-A38D6E22CB6A New ItemGUID= Old RevisionGUID=B26ED63F-E02C-467E-BC04-C31BE709A851 New RevisionGUID=
+Change Managed Component Library Link : Designator=R30 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=35293A42-33B2-451F-BFA2-A38D6E22CB6A New ItemGUID= Old RevisionGUID=B26ED63F-E02C-467E-BC04-C31BE709A851 New RevisionGUID=
+Change Managed Component Library Link : Designator=R31 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=35293A42-33B2-451F-BFA2-A38D6E22CB6A New ItemGUID= Old RevisionGUID=B26ED63F-E02C-467E-BC04-C31BE709A851 New RevisionGUID=
+Change Managed Component Library Link : Designator=R32 Old VaultGUID=B636D164-3135-4B16-BF58-DF64B83529D1 New VaultGUID= Old ItemGUID=35293A42-33B2-451F-BFA2-A38D6E22CB6A New ItemGUID= Old RevisionGUID=B26ED63F-E02C-467E-BC04-C31BE709A851 New RevisionGUID=
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RESC0402(1005)_L"; UniqueID = "\WHBVTJRI" ("\WHBVTJRI")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RESC0402(1005)_L"; UniqueID = "\HVMMRSKH" ("\HVMMRSKH")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RESC0402(1005)_L"; UniqueID = "\AROXJANV" ("\AROXJANV")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RESC0402(1005)_L"; UniqueID = "\CMEUUOKM" ("\CMEUUOKM")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RESC0402(1005)_L"; UniqueID = "\KBNNGJOQ" ("\KBNNGJOQ")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "RESC0402(1005)_L"; UniqueID = "\APDXTJYB" ("\APDXTJYB")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "RESC0402(1005)_L"; UniqueID = "\CJUWFJFA" ("\CJUWFJFA")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "RESC0402(1005)_L"; UniqueID = "\TUXEHZPE" ("\TUXEHZPE")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "RESC0402(1005)_L"; UniqueID = "\KARLTFYU" ("\KARLTFYU")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "RESC0402(1005)_L"; UniqueID = "\SHKEDGXQ" ("\SHKEDGXQ")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "RESC0402(1005)_L"; UniqueID = "\SXEHUQIA" ("\SXEHUQIA")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RESC0402(1005)_L"; UniqueID = "\AXEABIKA" ("\AXEABIKA")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "RESC0402(1005)_L"; UniqueID = "\UDBNAQMY" ("\UDBNAQMY")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RESC0402(1005)_L"; UniqueID = "\OTQWCEEE" ("\OTQWCEEE")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1002TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "RESC0402(1005)_L"; UniqueID = "\JTRUWXWR" ("\JTRUWXWR")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "RESC0402(1005)_L"; UniqueID = "\AVBPXSAY" ("\AVBPXSAY")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "RESC0402(1005)_L"; UniqueID = "\PZOBWVWP" ("\PZOBWVWP")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "RESC0402(1005)_L"; UniqueID = "\YRMOURAT" ("\YRMOURAT")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "RESC0402(1005)_L"; UniqueID = "\ZUYRYOZB" ("\ZUYRYOZB")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "RESC0402(1005)_L"; UniqueID = "\LZSCGEYU" ("\LZSCGEYU")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31" ("R31"); Footprint = "RESC0402(1005)_L"; UniqueID = "\YDIURLYZ" ("\YDIURLYZ")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "RESC0402(1005)_L"; UniqueID = "\CJKCQOXN" ("\CJKCQOXN")
+Change component parameters (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD3.3 Pin=R25-1
+Added Pin To Net: NetName=NetLED7_1 Pin=R25-2
+Added Pin To Net: NetName=VDD3.3 Pin=R26-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R26-2
+Added Pin To Net: NetName=VDD3.3 Pin=R27-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R27-2
+Added Pin To Net: NetName=VDD3.3 Pin=R28-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R28-2
+Added Pin To Net: NetName=VDD3.3 Pin=R29-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R29-2
+Added Pin To Net: NetName=VDD3.3 Pin=R30-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R30-2
+Added Pin To Net: NetName=VDD3.3 Pin=R31-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R31-2
+Added Pin To Net: NetName=VDD3.3 Pin=R32-1
+Added Pin To Net: NetName=NetLED0_1 Pin=R32-2

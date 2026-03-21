@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=J4-MH1
+Removed Pin From Net: NetName=GND Pin=J4-MH2
+Removed Pin From Net: NetName=VDD12 Pin=J7-5
+Removed Pin From Net: NetName=VDD12 Pin=J7-6
+Change Comment: Unknown Component : R2
+Change Comment: Unknown Component : R5
+Change Comment: Unknown Component : R1
+Change Comment: Unknown Component : R4
+Change Comment: Unknown Component : R8
+Change Comment: Unknown Component : R9
+Change Comment: Unknown Component : R10
+Change Comment: Unknown Component : R3
+Change Comment: Unknown Component : R6
+Change Comment: Unknown Component : R7
+Change Managed Component Library Link: Component "R1" not found
+Change Managed Component Library Link: Component "R2" not found
+Change Managed Component Library Link: Component "R3" not found
+Change Managed Component Library Link: Component "R4" not found
+Change Managed Component Library Link: Component "R5" not found
+Change Managed Component Library Link: Component "R6" not found
+Change Managed Component Library Link: Component "R7" not found
+Change Managed Component Library Link: Component "R8" not found
+Change Managed Component Library Link: Component "R9" not found
+Change Managed Component Library Link: Component "R10" not found
+Change component parameters: Component "R8" not found
+Change component parameters: Component "R2" not found
+Change component parameters: Component "R5" not found
+Change component parameters: Component "R9" not found
+Change component parameters: Component "R10" not found
+Change component parameters: Component "R7" not found
+Change component parameters: Component "R3" not found
+Change component parameters: Component "R6" not found
+Change component parameters: Component "R1" not found
+Change component parameters: Component "R4" not found

@@ -1,0 +1,38 @@
+Remove Pin=J5-1 From Net=VDD3.3
+Remove Pin=J5-2 From Net=VDD3.3
+Remove Pin=J5-3 From Net=F12
+Remove Pin=J5-4 From Net=F13
+Remove Pin=J5-5 From Net=GND
+Remove Pin=J5-6 From Net=GND
+Remove Pin=J5-7 From Net=G11
+Remove Pin=J5-8 From Net=G12
+Remove Pin=J5-9 From Net=J14
+Remove Pin=J5-10 From Net=J15
+Remove Pin=J5-11 From Net=H13
+Remove Pin=J5-12 From Net=H14
+Remove Pin=J5-13 From Net=J11
+Remove Pin=J5-14 From Net=H11
+Remove Pin=J5-15 From Net=J12
+Remove Pin=J5-16 From Net=J13
+Remove Pin=J5-17 From Net=G9
+Remove Pin=J5-18 From Net=G10
+Remove Pin=J5-19 From Net=H9
+Remove Pin=J5-20 From Net=H12
+Remove Pin=J5-21 From Net=J9
+Remove Pin=J5-22 From Net=J10
+Remove Pin=J5-23 From Net=K9
+Remove Pin=J5-24 From Net=K10
+Remove Pin=J5-25 From Net=W13
+Remove Pin=J5-26 From Net=W12
+Remove Pin=J5-27 From Net=W15
+Remove Pin=J5-28 From Net=W14
+Change Pin Designator/Name:  Old Designator=J2-68 Old Name=68 New Designator =86 New Name=86
+Change Pin Designator/Name:  Old Designator=J2-70 Old Name=70 New Designator =84 New Name=84
+Change Pin Designator/Name:  Old Designator=J2-72 Old Name=72 New Designator =82 New Name=82
+Change Pin Designator/Name:  Old Designator=J2-74 Old Name=74 New Designator =80 New Name=80
+Change Pin Designator/Name:  Old Designator=J2-76 Old Name=76 New Designator =78 New Name=78
+Change Pin Designator/Name:  Old Designator=J2-78 Old Name=78 New Designator =76 New Name=76
+Change Pin Designator/Name:  Old Designator=J2-80 Old Name=80 New Designator =74 New Name=74
+Change Pin Designator/Name:  Old Designator=J2-82 Old Name=82 New Designator =72 New Name=72
+Change Pin Designator/Name:  Old Designator=J2-84 Old Name=84 New Designator =70 New Name=70
+Change Pin Designator/Name:  Old Designator=J2-86 Old Name=86 New Designator =68 New Name=68
