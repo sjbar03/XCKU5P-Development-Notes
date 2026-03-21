@@ -1,0 +1,10 @@
+Added Component: Designator=S?(219772234)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "2-1977223-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2-1977223-4/te-connectivity?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/en/product-2-1977223-4.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2-1977223-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "506-2-1977223-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Alcoswitch/2-1977223-4?qs=WwRK9Mn48WApgvYrqfKzDA%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=SWITCHES Member=Component S? 2-1977223-4

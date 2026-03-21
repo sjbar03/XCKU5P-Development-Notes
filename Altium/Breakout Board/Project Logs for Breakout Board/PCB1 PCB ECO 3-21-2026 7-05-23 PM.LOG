@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=E11 Pin=SW10-1
+Removed Pin From Net: NetName=GND Pin=SW10-4
+Change Component Footprint: Designator=SW10 Old Footprint=FP-2-1977223-2-MFG New Footprint=TS-1185-B-A-B-A
+Change Footprint: Footprint Not Found FP-2-1977223-2-MFG
+Change Footprint: Footprint Not Found FP-2-1977223-2-MFG
+Change Footprint: Footprint Not Found FP-2-1977223-2-MFG
+Change Component Comment : Designator=SW10 Old Comment=2-1977223-2 New Comment=TS-1185-B-A-B-A
+Change component parameters: Designator = "SW10" ("SW10"); Footprint = "FP-2-1977223-2-MFG"; UniqueID = "\IINOGRIR" ("\IINOGRIR")
+Change component parameters (AddParameter): Name = "Actuator Style"; Value = "Round Button"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator/Cap Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit"; Value = "SPST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Current"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211011/C2F26DC0AE1820400F54DBF49644F5A1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "4*3*2mm ?? ????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity(????)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mechanical Life"; Value = "10??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Brick nogging"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Force"; Value = "160gf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-30?~+85?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Strike Gundam"; Value = "??"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C561517"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Height"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Length"; Value = "4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Width"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "With Lamp"; Value = "No"; VariantName = "[No Variations]"
+Add component: Footprint Not Found SW-SMD_L4.0-W3.0-LS5.0
+Added Pin To Net: NetName=GND Pin=SW10-1
+Added Class: Name=TS-1185-B-A-B-A1_TS-1185-B-A-B-A

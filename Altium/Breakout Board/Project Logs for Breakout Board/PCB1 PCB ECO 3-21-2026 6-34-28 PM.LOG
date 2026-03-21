@@ -1,0 +1,48 @@
+Change Component Footprint: Designator=SW10 Old Footprint=FP-2-1977223-2-MFG New Footprint=219772234
+Change Component Footprint: Designator=SW11 Old Footprint=FP-2-1977223-2-MFG New Footprint=219772234
+Change Component Footprint: Designator=SW12 Old Footprint=FP-2-1977223-2-MFG New Footprint=219772234
+Change Component Footprint: Designator=SW13 Old Footprint=FP-2-1977223-2-MFG New Footprint=219772234
+Change Component Comment : Designator=SW10 Old Comment=2-1977223-2 New Comment=2-1977223-4
+Change Component Comment : Designator=SW11 Old Comment=2-1977223-2 New Comment=2-1977223-4
+Change Component Comment : Designator=SW12 Old Comment=2-1977223-2 New Comment=2-1977223-4
+Change Component Comment : Designator=SW13 Old Comment=2-1977223-2 New Comment=2-1977223-4
+Change Managed Component Library Link : Designator=SW10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9FA723D9-2C90-47BC-B4D9-001C734A55F5 New ItemGUID= Old RevisionGUID=C3BB17E0-CFC7-4095-B825-34792E8ABA7F New RevisionGUID=
+Change Managed Component Library Link : Designator=SW11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9FA723D9-2C90-47BC-B4D9-001C734A55F5 New ItemGUID= Old RevisionGUID=C3BB17E0-CFC7-4095-B825-34792E8ABA7F New RevisionGUID=
+Change Managed Component Library Link : Designator=SW12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9FA723D9-2C90-47BC-B4D9-001C734A55F5 New ItemGUID= Old RevisionGUID=C3BB17E0-CFC7-4095-B825-34792E8ABA7F New RevisionGUID=
+Change Managed Component Library Link : Designator=SW13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9FA723D9-2C90-47BC-B4D9-001C734A55F5 New ItemGUID= Old RevisionGUID=C3BB17E0-CFC7-4095-B825-34792E8ABA7F New RevisionGUID=
+Change component parameters: Designator = "SW10" ("SW10"); Footprint = "FP-2-1977223-2-MFG"; UniqueID = "\RYWKCSWJ" ("\RYWKCSWJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "2-1977223-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2-1977223-4/te-connectivity?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/en/product-2-1977223-4.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2-1977223-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "506-2-1977223-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Alcoswitch/2-1977223-4?qs=WwRK9Mn48WApgvYrqfKzDA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW11" ("SW11"); Footprint = "FP-2-1977223-2-MFG"; UniqueID = "\XODVVFZZ" ("\XODVVFZZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "2-1977223-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2-1977223-4/te-connectivity?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/en/product-2-1977223-4.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2-1977223-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "506-2-1977223-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Alcoswitch/2-1977223-4?qs=WwRK9Mn48WApgvYrqfKzDA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW12" ("SW12"); Footprint = "FP-2-1977223-2-MFG"; UniqueID = "\YFQNQQFC" ("\YFQNQQFC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "2-1977223-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2-1977223-4/te-connectivity?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/en/product-2-1977223-4.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2-1977223-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "506-2-1977223-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Alcoswitch/2-1977223-4?qs=WwRK9Mn48WApgvYrqfKzDA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW13" ("SW13"); Footprint = "FP-2-1977223-2-MFG"; UniqueID = "\OAYIJBSD" ("\OAYIJBSD")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "2-1977223-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2-1977223-4/te-connectivity?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/en/product-2-1977223-4.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2-1977223-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "506-2-1977223-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Alcoswitch/2-1977223-4?qs=WwRK9Mn48WApgvYrqfKzDA%3D%3D"; VariantName = "[No Variations]"

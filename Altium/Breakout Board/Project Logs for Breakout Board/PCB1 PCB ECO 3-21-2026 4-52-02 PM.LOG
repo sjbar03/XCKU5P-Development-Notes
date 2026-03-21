@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=C14 Pin=LED0-2
+Removed Pin From Net: NetName=A14 Pin=LED1-2
+Removed Pin From Net: NetName=C12 Pin=LED2-2
+Removed Pin From Net: NetName=B11 Pin=LED3-2
+Removed Pin From Net: NetName=A12 Pin=LED4-2
+Removed Pin From Net: NetName=B9 Pin=LED5-2
+Removed Pin From Net: NetName=D14 Pin=LED6-2
+Removed Pin From Net: NetName=C11 Pin=LED7-2
+Change component parameters: Designator = "J2" ("J2"); Footprint = "CLP-150-02-XXX-D-A"; UniqueID = "\SESEBUGU" ("\SESEBUGU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/erm8-xxx-xx.x-xxx-dv-xxxx-xx-mkt.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.37mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CLP-150-02-L-D-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=C14 Pin=LED0-1
+Added Pin To Net: NetName=A14 Pin=LED1-1
+Added Pin To Net: NetName=C12 Pin=LED2-1
+Added Pin To Net: NetName=B11 Pin=LED3-1
+Added Pin To Net: NetName=A12 Pin=LED4-1
+Added Pin To Net: NetName=B9 Pin=LED5-1
+Added Pin To Net: NetName=D14 Pin=LED6-1
+Added Pin To Net: NetName=C11 Pin=LED7-1
+Added Pin To Net: NetName=NetLED0_2 Pin=LED0-2
+Added Pin To Net: NetName=NetLED0_2 Pin=R32-2
+Added Net: Name=NetLED0_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R31-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R30-2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R29-2
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R28-2
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R27-2
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=R26-2
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_2 Pin=R25-2
+Added Net: Name=NetLED7_2
