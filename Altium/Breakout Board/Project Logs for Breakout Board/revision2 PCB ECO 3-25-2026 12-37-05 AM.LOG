@@ -1,0 +1,76 @@
+Added Component: Designator=U2(HDMI-232D)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/HDMI-232D/49535968.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "HDMI-232D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "HDMI TYPE A?????9.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HANBO(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "HDMI-232D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C47326463"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "HDMI-232D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J4-3
+Add Pin To Net: Unknown Pin: Pin J4-5
+Add Pin To Net: Unknown Pin: Pin J4-6
+Add Pin To Net: Unknown Pin: Pin J4-7
+Add Pin To Net: Unknown Pin: Pin J4-8
+Add Pin To Net: Unknown Pin: Pin J4-10
+Add Pin To Net: Unknown Pin: Pin J4-13
+Add Pin To Net: Unknown Pin: Pin J4-14
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Added Pin To Net: NetName=NetU1_27 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetU1_26 Pin=U2-3
+Added Pin To Net: NetName=NetU1_24 Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=NetU1_23 Pin=U2-6
+Added Pin To Net: NetName=NetU1_21 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetU1_20 Pin=U2-9
+Added Pin To Net: NetName=NetU1_18 Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=NetU1_17 Pin=U2-12
+Added Pin To Net: NetName=NetU1_30 Pin=U2-13
+Added Pin To Net: NetName=NetU1_35 Pin=U2-15
+Added Pin To Net: NetName=NetU1_36 Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Pin To Net: NetName=VDD5.0 Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-20
+Added Pin To Net: NetName=GND Pin=U2-21
+Added Pin To Net: NetName=GND Pin=U2-22
+Added Pin To Net: NetName=GND Pin=U2-23
+Add Class Member: Failed to add class member : Component J4 L77HDE15SD1CH4FVGA
+Add Class Member: Failed to add class member : Component R1 0402WGF2001TCE
+Add Class Member: Failed to add class member : Component R2 0402WGF1001TCE
+Add Class Member: Failed to add class member : Component R3 0402WGF5100TCE
+Add Class Member: Failed to add class member : Component R4 0402WGF2001TCE
+Add Class Member: Failed to add class member : Component R5 0402WGF1001TCE
+Add Class Member: Failed to add class member : Component R6 0402WGF5100TCE
+Add Class Member: Failed to add class member : Component R7 0603WAF8200T5E
+Add Class Member: Failed to add class member : Component R8 0402WGF5100TCE
+Add Class Member: Failed to add class member : Component R9 0603WAF470JT5E
+Add Class Member: Failed to add class member : Component R10 0603WAF470JT5E
+Added Member To Class: ClassName=HDMI Member=Component U2 HDMI-232D

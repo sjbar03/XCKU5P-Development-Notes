@@ -1,0 +1,214 @@
+Removed Pin From Net: NetName=E11 Pin=J2-65
+Removed Pin From Net: NetName=D10 Pin=J2-67
+Removed Pin From Net: NetName=E12 Pin=J2-68
+Removed Pin From Net: NetName=F9 Pin=J2-70
+Removed Pin From Net: NetName=E10 Pin=J2-72
+Removed Pin From Net: NetName=A13 Pin=J2-74
+Removed Pin From Net: NetName=B12 Pin=J2-76
+Removed Pin From Net: NetName=C13 Pin=J2-78
+Removed Pin From Net: NetName=B14 Pin=J2-80
+Removed Pin From Net: NetName=D13 Pin=J2-82
+Removed Pin From Net: NetName=J9 Pin=J5-3
+Removed Pin From Net: NetName=G11 Pin=J5-4
+Removed Pin From Net: NetName=K9 Pin=J5-7
+Removed Pin From Net: NetName=J14 Pin=J5-8
+Removed Pin From Net: NetName=W13 Pin=J5-9
+Removed Pin From Net: NetName=H13 Pin=J5-10
+Removed Pin From Net: NetName=W15 Pin=J5-11
+Removed Pin From Net: NetName=J11 Pin=J5-12
+Removed Pin From Net: NetName=Y16 Pin=J5-13
+Removed Pin From Net: NetName=J12 Pin=J5-14
+Removed Pin From Net: NetName=AA13 Pin=J5-15
+Removed Pin From Net: NetName=G9 Pin=J5-16
+Removed Pin From Net: NetName=AB14 Pin=J5-17
+Removed Pin From Net: NetName=H9 Pin=J5-18
+Removed Pin From Net: NetName=AC13 Pin=J5-19
+Removed Pin From Net: NetName=AC14 Pin=J5-20
+Removed Pin From Net: NetName=AD13 Pin=J5-21
+Removed Pin From Net: NetName=AD14 Pin=J5-22
+Removed Pin From Net: NetName=AE13 Pin=J5-23
+Removed Pin From Net: NetName=AE15 Pin=J5-24
+Removed Pin From Net: NetName=AF13 Pin=J5-25
+Removed Pin From Net: NetName=AF14 Pin=J5-26
+Removed Pin From Net: NetName=AF15 Pin=J5-27
+Removed Pin From Net: NetName=AD15 Pin=J5-28
+Removed Pin From Net: NetName=C11 Pin=LED0-1
+Removed Pin From Net: NetName=D14 Pin=LED1-1
+Removed Pin From Net: NetName=C14 Pin=LED2-1
+Removed Pin From Net: NetName=A14 Pin=LED3-1
+Removed Pin From Net: NetName=C12 Pin=LED4-1
+Removed Pin From Net: NetName=B11 Pin=LED5-1
+Removed Pin From Net: NetName=A12 Pin=LED6-1
+Removed Pin From Net: NetName=B9 Pin=LED7-1
+Removed Pin From Net: NetName=F10 Pin=R21-1
+Removed Pin From Net: NetName=D11 Pin=R22-1
+Removed Pin From Net: NetName=G14 Pin=R23-1
+Removed Pin From Net: NetName=F12 Pin=R24-1
+Removed Pin From Net: NetName=F10 Pin=SW10-2
+Removed Pin From Net: NetName=D11 Pin=SW11-2
+Removed Pin From Net: NetName=G14 Pin=SW12-2
+Removed Pin From Net: NetName=F12 Pin=SW13-2
+Added Component: Designator=U1(ADI-LQFP-64_M)
+Add component (AddParameter): Name = "Brand"; Value = "AnalogDevices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/15120/getdatasheetpartid-570006-15120176.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. A, 01/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AnalogDevicesInc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.analog.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-25C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "8Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "1.8Vto3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "LQFP-64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "VideoICs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ADV7513"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "HDMITransmitters"; VariantName = "[No Variations]"
+Add component: Footprint Not Found HDMI-SMD_HDMI-232D
+Added Pin To Net: NetName=E11 Pin=J2-62
+Added Pin To Net: NetName=D10 Pin=J2-64
+Added Pin To Net: NetName=E12 Pin=J2-66
+Added Pin To Net: NetName=F9 Pin=J2-74
+Added Pin To Net: NetName=E10 Pin=J2-76
+Added Pin To Net: NetName=A13 Pin=J2-78
+Added Pin To Net: NetName=B12 Pin=J2-80
+Added Pin To Net: NetName=C13 Pin=J2-82
+Added Pin To Net: NetName=B14 Pin=J2-84
+Added Pin To Net: NetName=D13 Pin=J2-86
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J4-3
+Add Pin To Net: Unknown Pin: Pin J4-5
+Add Pin To Net: Unknown Pin: Pin J4-6
+Add Pin To Net: Unknown Pin: Pin J4-7
+Add Pin To Net: Unknown Pin: Pin J4-8
+Add Pin To Net: Unknown Pin: Pin J4-10
+Add Pin To Net: Unknown Pin: Pin J4-13
+Add Pin To Net: Unknown Pin: Pin J4-14
+Added Pin To Net: NetName=F12 Pin=J5-3
+Added Pin To Net: NetName=F13 Pin=J5-4
+Added Pin To Net: NetName=G11 Pin=J5-7
+Added Pin To Net: NetName=G12 Pin=J5-8
+Added Pin To Net: NetName=J14 Pin=J5-9
+Added Pin To Net: NetName=J15 Pin=J5-10
+Added Pin To Net: NetName=H13 Pin=J5-11
+Added Pin To Net: NetName=H14 Pin=J5-12
+Added Pin To Net: NetName=J11 Pin=J5-13
+Added Pin To Net: NetName=H11 Pin=J5-14
+Added Pin To Net: NetName=J12 Pin=J5-15
+Added Pin To Net: NetName=J13 Pin=J5-16
+Added Pin To Net: NetName=G9 Pin=J5-17
+Added Pin To Net: NetName=G10 Pin=J5-18
+Added Pin To Net: NetName=H9 Pin=J5-19
+Added Pin To Net: NetName=H12 Pin=J5-20
+Added Pin To Net: NetName=J9 Pin=J5-21
+Added Pin To Net: NetName=J10 Pin=J5-22
+Added Pin To Net: NetName=K9 Pin=J5-23
+Added Pin To Net: NetName=K10 Pin=J5-24
+Added Pin To Net: NetName=W13 Pin=J5-25
+Added Pin To Net: NetName=W12 Pin=J5-26
+Added Pin To Net: NetName=W15 Pin=J5-27
+Added Pin To Net: NetName=W14 Pin=J5-28
+Added Pin To Net: NetName=C14 Pin=LED0-1
+Added Pin To Net: NetName=A14 Pin=LED1-1
+Added Pin To Net: NetName=C12 Pin=LED2-1
+Added Pin To Net: NetName=B11 Pin=LED3-1
+Added Pin To Net: NetName=A12 Pin=LED4-1
+Added Pin To Net: NetName=B9 Pin=LED5-1
+Added Pin To Net: NetName=D14 Pin=LED6-1
+Added Pin To Net: NetName=C11 Pin=LED7-1
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Added Pin To Net: NetName=F10 Pin=R22-1
+Added Pin To Net: NetName=D11 Pin=R23-1
+Added Pin To Net: NetName=G14 Pin=R24-1
+Added Pin To Net: NetName=F10 Pin=SW11-2
+Added Pin To Net: NetName=D11 Pin=SW12-2
+Added Pin To Net: NetName=G14 Pin=SW13-2
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-17
+Add Pin To Net: Unknown Pin: Pin U2-20
+Add Pin To Net: Unknown Pin: Pin U2-21
+Add Pin To Net: Unknown Pin: Pin U2-22
+Add Pin To Net: Unknown Pin: Pin U2-23
+Change Net Name : Old Net Name=A13 New Net Name=C13
+Change Net Name : Old Net Name=B12 New Net Name=B14
+Change Net Name : Old Net Name=B14 New Net Name=C9
+Change Net Name : Old Net Name=C13 New Net Name=D13
+Change Net Name : Old Net Name=D10 New Net Name=A10
+Change Net Name : Old Net Name=D13 New Net Name=D9
+Change Net Name : Old Net Name=E10 New Net Name=B12
+Change Net Name : Old Net Name=E11 New Net Name=A9
+Change Net Name : Old Net Name=E12 New Net Name=B10
+Change Net Name : Old Net Name=F9 New Net Name=A13
+Added Pin To Net: NetName=D10 Pin=J2-67
+Added Net: Name=D10
+Added Pin To Net: NetName=E10 Pin=J2-72
+Added Net: Name=E10
+Added Pin To Net: NetName=E11 Pin=J2-65
+Added Pin To Net: NetName=E11 Pin=R21-1
+Added Pin To Net: NetName=E11 Pin=SW10-2
+Added Net: Name=E11
+Added Pin To Net: NetName=E12 Pin=J2-68
+Added Net: Name=E12
+Added Pin To Net: NetName=F9 Pin=J2-70
+Added Net: Name=F9
+Added Pin To Net: NetName=NetU1_17 Pin=U1-17
+Added Net: Name=NetU1_17
+Added Pin To Net: NetName=NetU1_18 Pin=U1-18
+Added Net: Name=NetU1_18
+Added Pin To Net: NetName=NetU1_20 Pin=U1-20
+Added Net: Name=NetU1_20
+Added Pin To Net: NetName=NetU1_21 Pin=U1-21
+Added Net: Name=NetU1_21
+Added Pin To Net: NetName=NetU1_23 Pin=U1-23
+Added Net: Name=NetU1_23
+Added Pin To Net: NetName=NetU1_24 Pin=U1-24
+Added Net: Name=NetU1_24
+Added Pin To Net: NetName=NetU1_26 Pin=U1-26
+Added Net: Name=NetU1_26
+Added Pin To Net: NetName=NetU1_27 Pin=U1-27
+Added Net: Name=NetU1_27
+Added Pin To Net: NetName=NetU1_30 Pin=U1-30
+Added Net: Name=NetU1_30
+Added Pin To Net: NetName=NetU1_35 Pin=U1-35
+Added Net: Name=NetU1_35
+Added Pin To Net: NetName=NetU1_36 Pin=U1-36
+Added Net: Name=NetU1_36
+Added Net: Name=VDD5.0
+Added Class: Name=HDMI
+Add Class Member: Failed to add class member : Component J4 L77HDE15SD1CH4FVGA
+Add Class Member: Failed to add class member : Component R1 0402WGF2001TCE
+Add Class Member: Failed to add class member : Component R2 0402WGF1001TCE
+Add Class Member: Failed to add class member : Component R3 0402WGF5100TCE
+Add Class Member: Failed to add class member : Component R4 0402WGF2001TCE
+Add Class Member: Failed to add class member : Component R5 0402WGF1001TCE
+Add Class Member: Failed to add class member : Component R6 0402WGF5100TCE
+Add Class Member: Failed to add class member : Component R7 0603WAF8200T5E
+Add Class Member: Failed to add class member : Component R8 0402WGF5100TCE
+Add Class Member: Failed to add class member : Component R9 0603WAF470JT5E
+Add Class Member: Failed to add class member : Component R10 0603WAF470JT5E
+Added Rule: Name=Schematic Supply Nets_3

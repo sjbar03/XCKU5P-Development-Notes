@@ -1,0 +1,1642 @@
+Added Component: Designator=J4(L77HDE15SD1CH4FVGA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "L77HDE15SD1CH4FVGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/l77hde15sd1ch4fvga/amphenol-fci?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/l77hde15sd1ch4fvga.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol Communications Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L77HDE15SD1CH4FVGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "523-7HDE15SD1CH4FVGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-Commercial-Products/L77HDE15SD1CH4FVGA?qs=ToP8pWlZ0bNtQSp9f8k5Rw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J5(SMTC-SSQ-114-01-X-D)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/SSQ_TH.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/SSQ-1XX-XX-XXX-X-XX-XXX-XX-X-MKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Assembly, Socket Strip .025[0.64] SQ Tail"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SSQ-114-01-X-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "BD, 6/1987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SSQ-114-01-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Added Component: Designator=J6(DM3ATSFPEJM5)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/Hirose-HRS-DM3AT-SF-PEJM5_C114218.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DM3AT-SF-PEJM5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "798-DM3AT-SF-PEJM5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/DM3AT-SF-PEJM5?qs=LZSZKJVF%252B2WTDKp%252BR7IYAQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J7(CES-130-XX-X-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/ces-1xx-xx-x-d%20-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CES-130-02-T-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED0(LEDC1608X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c190krkt/lite-on-technology?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/LTST-C190KRKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/LITEON/LTST-C190KRKT?qs=kAD5fFa1n5VY3YYNWPC1Fg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LEDC1608X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c190krkt/lite-on-technology?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/LTST-C190KRKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/LITEON/LTST-C190KRKT?qs=kAD5fFa1n5VY3YYNWPC1Fg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LEDC1608X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c190krkt/lite-on-technology?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/LTST-C190KRKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/LITEON/LTST-C190KRKT?qs=kAD5fFa1n5VY3YYNWPC1Fg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LEDC1608X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c190krkt/lite-on-technology?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/LTST-C190KRKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/LITEON/LTST-C190KRKT?qs=kAD5fFa1n5VY3YYNWPC1Fg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LEDC1608X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c190krkt/lite-on-technology?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/LTST-C190KRKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/LITEON/LTST-C190KRKT?qs=kAD5fFa1n5VY3YYNWPC1Fg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED5(LEDC1608X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c190krkt/lite-on-technology?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/LTST-C190KRKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/LITEON/LTST-C190KRKT?qs=kAD5fFa1n5VY3YYNWPC1Fg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED6(LEDC1608X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c190krkt/lite-on-technology?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/LTST-C190KRKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/LITEON/LTST-C190KRKT?qs=kAD5fFa1n5VY3YYNWPC1Fg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED7(LEDC1608X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltst-c190krkt/lite-on-technology?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/LTST-C190KRKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C190KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/LITEON/LTST-C190KRKT?qs=kAD5fFa1n5VY3YYNWPC1Fg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010230_UNI-ROYAL-Uniroyal-Elec-0402WGF2001TCE_C4109.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C4109"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C4109"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2001TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C4109"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1001TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF5100TCE_C25123.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF5100TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "510O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010230_UNI-ROYAL-Uniroyal-Elec-0402WGF2001TCE_C4109.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C4109"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C4109"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2001TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C4109"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF1001TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF5100TCE_C25123.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF5100TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "510O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF8200T5E_C23253.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C23253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C23253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF8200T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "820O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C23253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF5100TCE_C25123.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF5100TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "510O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF470JT5E_C23182.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C23182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C23182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF470JT5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "47O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C23182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF470JT5E_C23182.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C23182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C23182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF470JT5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "47O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C23182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES-0603)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES-0402)
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "JLCPCB Part URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://jlcpcb.com/partdetail/C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Basic Part"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Number"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Uniroyal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0402WGF2000TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "200O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C25087"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Rating"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=SW0(FP-JS202011JCQN-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "5000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6V"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(FP-JS202011JCQN-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "5000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6V"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(FP-JS202011JCQN-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "5000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6V"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(FP-JS202011JCQN-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "5000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6V"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(FP-JS202011JCQN-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "5000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6V"; VariantName = "[No Variations]"
+Added Component: Designator=SW5(FP-JS202011JCQN-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "5000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6V"; VariantName = "[No Variations]"
+Added Component: Designator=SW6(FP-JS202011JCQN-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "5000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6V"; VariantName = "[No Variations]"
+Added Component: Designator=SW7(FP-JS202011JCQN-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "5000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6V"; VariantName = "[No Variations]"
+Added Component: Designator=SW8(FP-JS202011JCQN-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "5000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6V"; VariantName = "[No Variations]"
+Added Component: Designator=SW9(FP-JS202011JCQN-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "5000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6V"; VariantName = "[No Variations]"
+Added Component: Designator=SW10(TS-1185-B-A-B-A)
+Add component (AddParameter): Name = "Actuator Style"; Value = "Round Button"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator/Cap Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211011/C2F26DC0AE1820400F54DBF49644F5A1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4*3*2mm ?? ????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "10??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Brick nogging"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "160gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Strike Gundam"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C561517"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Length"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Width"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "With Lamp"; Value = "No"; VariantName = "[No Variations]"
+Added Component: Designator=SW11(TS-1185-B-A-B-A)
+Add component (AddParameter): Name = "Actuator Style"; Value = "Round Button"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator/Cap Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211011/C2F26DC0AE1820400F54DBF49644F5A1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4*3*2mm ?? ????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "10??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Brick nogging"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "160gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Strike Gundam"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C561517"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Length"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Width"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "With Lamp"; Value = "No"; VariantName = "[No Variations]"
+Added Component: Designator=SW12(TS-1185-B-A-B-A)
+Add component (AddParameter): Name = "Actuator Style"; Value = "Round Button"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator/Cap Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211011/C2F26DC0AE1820400F54DBF49644F5A1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4*3*2mm ?? ????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "10??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Brick nogging"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "160gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Strike Gundam"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C561517"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Length"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Width"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "With Lamp"; Value = "No"; VariantName = "[No Variations]"
+Added Component: Designator=SW13(TS-1185-B-A-B-A)
+Add component (AddParameter): Name = "Actuator Style"; Value = "Round Button"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator/Cap Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211011/C2F26DC0AE1820400F54DBF49644F5A1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4*3*2mm ?? ????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "10??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Brick nogging"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "160gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Strike Gundam"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C561517"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Length"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Width"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TS-1185-B-A-B-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "With Lamp"; Value = "No"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=64_L1_N Pin=J1-40
+Added Pin To Net: NetName=64_L1_N Pin=J7-25
+Added Net: Name=64_L1_N
+Added Pin To Net: NetName=64_L1_P Pin=J1-39
+Added Pin To Net: NetName=64_L1_P Pin=J7-26
+Added Net: Name=64_L1_P
+Added Pin To Net: NetName=64_L2_N Pin=J1-47
+Added Pin To Net: NetName=64_L2_N Pin=J7-34
+Added Net: Name=64_L2_N
+Added Pin To Net: NetName=64_L2_P Pin=J1-48
+Added Pin To Net: NetName=64_L2_P Pin=J7-33
+Added Net: Name=64_L2_P
+Added Pin To Net: NetName=64_L3_N Pin=J1-46
+Added Pin To Net: NetName=64_L3_N Pin=J7-31
+Added Net: Name=64_L3_N
+Added Pin To Net: NetName=64_L3_P Pin=J1-45
+Added Pin To Net: NetName=64_L3_P Pin=J7-32
+Added Net: Name=64_L3_P
+Added Pin To Net: NetName=64_L4_N Pin=J1-38
+Added Pin To Net: NetName=64_L4_N Pin=J7-23
+Added Net: Name=64_L4_N
+Added Pin To Net: NetName=64_L4_P Pin=J1-37
+Added Pin To Net: NetName=64_L4_P Pin=J7-24
+Added Net: Name=64_L4_P
+Added Pin To Net: NetName=64_L5_N Pin=J1-49
+Added Pin To Net: NetName=64_L5_N Pin=J7-36
+Added Net: Name=64_L5_N
+Added Pin To Net: NetName=64_L5_P Pin=J1-50
+Added Pin To Net: NetName=64_L5_P Pin=J7-35
+Added Net: Name=64_L5_P
+Added Pin To Net: NetName=64_L6_N Pin=J1-35
+Added Pin To Net: NetName=64_L6_N Pin=J7-22
+Added Net: Name=64_L6_N
+Added Pin To Net: NetName=64_L6_P Pin=J1-36
+Added Pin To Net: NetName=64_L6_P Pin=J7-21
+Added Net: Name=64_L6_P
+Added Pin To Net: NetName=64_L7_N Pin=J1-56
+Added Pin To Net: NetName=64_L7_N Pin=J7-41
+Added Net: Name=64_L7_N
+Added Pin To Net: NetName=64_L7_P Pin=J1-55
+Added Pin To Net: NetName=64_L7_P Pin=J7-42
+Added Net: Name=64_L7_P
+Added Pin To Net: NetName=64_L9_N Pin=J1-53
+Added Pin To Net: NetName=64_L9_N Pin=J7-40
+Added Net: Name=64_L9_N
+Added Pin To Net: NetName=64_L9_P Pin=J1-54
+Added Pin To Net: NetName=64_L9_P Pin=J7-39
+Added Net: Name=64_L9_P
+Added Pin To Net: NetName=64_L11_N Pin=J1-58
+Added Pin To Net: NetName=64_L11_N Pin=J7-43
+Added Net: Name=64_L11_N
+Added Pin To Net: NetName=64_L11_P Pin=J1-57
+Added Pin To Net: NetName=64_L11_P Pin=J7-44
+Added Net: Name=64_L11_P
+Added Pin To Net: NetName=64_L12_N Pin=J1-52
+Added Pin To Net: NetName=64_L12_N Pin=J7-37
+Added Net: Name=64_L12_N
+Added Pin To Net: NetName=64_L12_P Pin=J1-51
+Added Pin To Net: NetName=64_L12_P Pin=J7-38
+Added Net: Name=64_L12_P
+Added Pin To Net: NetName=64_L13_N Pin=J1-71
+Added Net: Name=64_L13_N
+Added Pin To Net: NetName=64_L13_P Pin=J1-72
+Added Net: Name=64_L13_P
+Added Pin To Net: NetName=64_L14_N Pin=J1-73
+Added Net: Name=64_L14_N
+Added Pin To Net: NetName=64_L14_P Pin=J1-74
+Added Net: Name=64_L14_P
+Added Pin To Net: NetName=64_L15_N Pin=J1-61
+Added Pin To Net: NetName=64_L15_N Pin=J7-48
+Added Net: Name=64_L15_N
+Added Pin To Net: NetName=64_L15_P Pin=J1-62
+Added Pin To Net: NetName=64_L15_P Pin=J7-47
+Added Net: Name=64_L15_P
+Added Pin To Net: NetName=64_L16_N Pin=J1-67
+Added Pin To Net: NetName=64_L16_N Pin=J7-54
+Added Net: Name=64_L16_N
+Added Pin To Net: NetName=64_L16_P Pin=J1-68
+Added Pin To Net: NetName=64_L16_P Pin=J7-53
+Added Net: Name=64_L16_P
+Added Pin To Net: NetName=64_L17_N Pin=J1-66
+Added Pin To Net: NetName=64_L17_N Pin=J7-51
+Added Net: Name=64_L17_N
+Added Pin To Net: NetName=64_L17_P Pin=J1-65
+Added Pin To Net: NetName=64_L17_P Pin=J7-52
+Added Net: Name=64_L17_P
+Added Pin To Net: NetName=64_L18_N Pin=J1-75
+Added Net: Name=64_L18_N
+Added Pin To Net: NetName=64_L18_P Pin=J1-76
+Added Net: Name=64_L18_P
+Added Pin To Net: NetName=64_L19_N Pin=J1-33
+Added Pin To Net: NetName=64_L19_N Pin=J7-20
+Added Net: Name=64_L19_N
+Added Pin To Net: NetName=64_L19_P Pin=J1-34
+Added Pin To Net: NetName=64_L19_P Pin=J7-19
+Added Net: Name=64_L19_P
+Added Pin To Net: NetName=64_L21_N Pin=J1-63
+Added Pin To Net: NetName=64_L21_N Pin=J7-50
+Added Net: Name=64_L21_N
+Added Pin To Net: NetName=64_L21_P Pin=J1-64
+Added Pin To Net: NetName=64_L21_P Pin=J7-49
+Added Net: Name=64_L21_P
+Added Pin To Net: NetName=64_L22_N Pin=J1-69
+Added Pin To Net: NetName=64_L22_N Pin=J7-56
+Added Net: Name=64_L22_N
+Added Pin To Net: NetName=64_L22_P Pin=J1-70
+Added Pin To Net: NetName=64_L22_P Pin=J7-55
+Added Net: Name=64_L22_P
+Added Pin To Net: NetName=64_L23_N Pin=J1-77
+Added Net: Name=64_L23_N
+Added Pin To Net: NetName=64_L23_P Pin=J1-78
+Added Net: Name=64_L23_P
+Added Pin To Net: NetName=64_L24_N Pin=J1-60
+Added Pin To Net: NetName=64_L24_N Pin=J7-45
+Added Net: Name=64_L24_N
+Added Pin To Net: NetName=64_L24_P Pin=J1-59
+Added Pin To Net: NetName=64_L24_P Pin=J7-46
+Added Net: Name=64_L24_P
+Added Pin To Net: NetName=65_L16_N Pin=J1-43
+Added Pin To Net: NetName=65_L16_N Pin=J7-30
+Added Net: Name=65_L16_N
+Added Pin To Net: NetName=65_L16_P Pin=J1-44
+Added Pin To Net: NetName=65_L16_P Pin=J7-29
+Added Net: Name=65_L16_P
+Added Pin To Net: NetName=65_L17_N Pin=J3-21
+Added Net: Name=65_L17_N
+Added Pin To Net: NetName=65_L17_P Pin=J3-22
+Added Net: Name=65_L17_P
+Added Pin To Net: NetName=65_L18_N Pin=J1-42
+Added Pin To Net: NetName=65_L18_N Pin=J7-27
+Added Net: Name=65_L18_N
+Added Pin To Net: NetName=65_L18_P Pin=J1-41
+Added Pin To Net: NetName=65_L18_P Pin=J7-28
+Added Net: Name=65_L18_P
+Added Pin To Net: NetName=65_L20_N Pin=J3-55
+Added Net: Name=65_L20_N
+Added Pin To Net: NetName=65_L20_P Pin=J3-56
+Added Net: Name=65_L20_P
+Added Pin To Net: NetName=65_L21_N Pin=J1-32
+Added Pin To Net: NetName=65_L21_N Pin=J7-17
+Added Net: Name=65_L21_N
+Added Pin To Net: NetName=65_L21_P Pin=J1-31
+Added Pin To Net: NetName=65_L21_P Pin=J7-18
+Added Net: Name=65_L21_P
+Added Pin To Net: NetName=65_L22_N Pin=J1-30
+Added Pin To Net: NetName=65_L22_N Pin=J7-15
+Added Net: Name=65_L22_N
+Added Pin To Net: NetName=65_L22_P Pin=J1-29
+Added Pin To Net: NetName=65_L22_P Pin=J7-16
+Added Net: Name=65_L22_P
+Added Pin To Net: NetName=65_L23_N Pin=J3-62
+Added Net: Name=65_L23_N
+Added Pin To Net: NetName=65_L23_P Pin=J3-61
+Added Net: Name=65_L23_P
+Added Pin To Net: NetName=65_L24_N Pin=J3-33
+Added Net: Name=65_L24_N
+Added Pin To Net: NetName=65_L24_P Pin=J3-34
+Added Net: Name=65_L24_P
+Added Pin To Net: NetName=66_L5_N Pin=J3-43
+Added Net: Name=66_L5_N
+Added Pin To Net: NetName=66_L5_P Pin=J3-44
+Added Net: Name=66_L5_P
+Added Pin To Net: NetName=66_L8_N Pin=J1-26
+Added Pin To Net: NetName=66_L8_N Pin=J7-11
+Added Net: Name=66_L8_N
+Added Pin To Net: NetName=66_L8_P Pin=J1-25
+Added Pin To Net: NetName=66_L8_P Pin=J7-12
+Added Net: Name=66_L8_P
+Added Pin To Net: NetName=66_L9_N Pin=J3-23
+Added Net: Name=66_L9_N
+Added Pin To Net: NetName=66_L9_P Pin=J3-24
+Added Net: Name=66_L9_P
+Added Pin To Net: NetName=66_L10_N Pin=J1-28
+Added Pin To Net: NetName=66_L10_N Pin=J7-13
+Added Net: Name=66_L10_N
+Added Pin To Net: NetName=66_L10_P Pin=J1-27
+Added Pin To Net: NetName=66_L10_P Pin=J7-14
+Added Net: Name=66_L10_P
+Added Pin To Net: NetName=66_L15_N Pin=J3-25
+Added Net: Name=66_L15_N
+Added Pin To Net: NetName=66_L15_P Pin=J3-26
+Added Net: Name=66_L15_P
+Added Pin To Net: NetName=66_L17_N Pin=J3-28
+Added Net: Name=66_L17_N
+Added Pin To Net: NetName=66_L17_P Pin=J3-27
+Added Net: Name=66_L17_P
+Added Pin To Net: NetName=67_L1_N Pin=J3-80
+Added Net: Name=67_L1_N
+Added Pin To Net: NetName=67_L1_P Pin=J3-79
+Added Net: Name=67_L1_P
+Added Pin To Net: NetName=67_L2_N Pin=J3-70
+Added Net: Name=67_L2_N
+Added Pin To Net: NetName=67_L2_P Pin=J3-69
+Added Net: Name=67_L2_P
+Added Pin To Net: NetName=67_L3_N Pin=J3-78
+Added Net: Name=67_L3_N
+Added Pin To Net: NetName=67_L3_P Pin=J3-77
+Added Net: Name=67_L3_P
+Added Pin To Net: NetName=67_L4_N Pin=J3-57
+Added Net: Name=67_L4_N
+Added Pin To Net: NetName=67_L4_P Pin=J3-58
+Added Net: Name=67_L4_P
+Added Pin To Net: NetName=67_L5_N Pin=J3-72
+Added Net: Name=67_L5_N
+Added Pin To Net: NetName=67_L5_P Pin=J3-71
+Added Net: Name=67_L5_P
+Added Pin To Net: NetName=67_L6_N Pin=J3-68
+Added Net: Name=67_L6_N
+Added Pin To Net: NetName=67_L6_P Pin=J3-67
+Added Net: Name=67_L6_P
+Added Pin To Net: NetName=67_L7_N Pin=J3-76
+Added Net: Name=67_L7_N
+Added Pin To Net: NetName=67_L7_P Pin=J3-75
+Added Net: Name=67_L7_P
+Added Pin To Net: NetName=67_L9_N Pin=J3-41
+Added Net: Name=67_L9_N
+Added Pin To Net: NetName=67_L9_P Pin=J3-42
+Added Net: Name=67_L9_P
+Added Pin To Net: NetName=67_L10_N Pin=J3-45
+Added Net: Name=67_L10_N
+Added Pin To Net: NetName=67_L10_P Pin=J3-46
+Added Net: Name=67_L10_P
+Added Pin To Net: NetName=67_L12_N Pin=J3-53
+Added Net: Name=67_L12_N
+Added Pin To Net: NetName=67_L12_P Pin=J3-54
+Added Net: Name=67_L12_P
+Added Pin To Net: NetName=67_L13_N Pin=J3-51
+Added Net: Name=67_L13_N
+Added Pin To Net: NetName=67_L13_P Pin=J3-52
+Added Net: Name=67_L13_P
+Added Pin To Net: NetName=67_L14_N Pin=J3-49
+Added Net: Name=67_L14_N
+Added Pin To Net: NetName=67_L14_P Pin=J3-50
+Added Net: Name=67_L14_P
+Added Pin To Net: NetName=67_L15_N Pin=J3-66
+Added Net: Name=67_L15_N
+Added Pin To Net: NetName=67_L15_P Pin=J3-65
+Added Net: Name=67_L15_P
+Added Pin To Net: NetName=67_L16_N Pin=J3-60
+Added Net: Name=67_L16_N
+Added Pin To Net: NetName=67_L16_P Pin=J3-59
+Added Net: Name=67_L16_P
+Added Pin To Net: NetName=67_L17_N Pin=J3-74
+Added Net: Name=67_L17_N
+Added Pin To Net: NetName=67_L17_P Pin=J3-73
+Added Net: Name=67_L17_P
+Added Pin To Net: NetName=67_L18_N Pin=J3-47
+Added Net: Name=67_L18_N
+Added Pin To Net: NetName=67_L18_P Pin=J3-48
+Added Net: Name=67_L18_P
+Added Pin To Net: NetName=67_L19_N Pin=J3-31
+Added Net: Name=67_L19_N
+Added Pin To Net: NetName=67_L19_P Pin=J3-32
+Added Net: Name=67_L19_P
+Added Pin To Net: NetName=67_L20_N Pin=J3-39
+Added Net: Name=67_L20_N
+Added Pin To Net: NetName=67_L20_P Pin=J3-40
+Added Net: Name=67_L20_P
+Added Pin To Net: NetName=67_L22_N Pin=J3-37
+Added Net: Name=67_L22_N
+Added Pin To Net: NetName=67_L22_P Pin=J3-38
+Added Net: Name=67_L22_P
+Added Pin To Net: NetName=67_L23_N Pin=J3-29
+Added Net: Name=67_L23_N
+Added Pin To Net: NetName=67_L23_P Pin=J3-30
+Added Net: Name=67_L23_P
+Added Pin To Net: NetName=67_L24_N Pin=J3-35
+Added Net: Name=67_L24_N
+Added Pin To Net: NetName=67_L24_P Pin=J3-36
+Added Net: Name=67_L24_P
+Added Pin To Net: NetName=A9 Pin=J2-62
+Added Pin To Net: NetName=A9 Pin=R20-1
+Added Pin To Net: NetName=A9 Pin=SW9-2
+Added Pin To Net: NetName=A9 Pin=SW9-6
+Added Net: Name=A9
+Added Pin To Net: NetName=A10 Pin=J2-64
+Added Pin To Net: NetName=A10 Pin=R19-1
+Added Pin To Net: NetName=A10 Pin=SW8-2
+Added Pin To Net: NetName=A10 Pin=SW8-6
+Added Net: Name=A10
+Added Pin To Net: NetName=A12 Pin=J2-81
+Added Pin To Net: NetName=A12 Pin=LED4-1
+Added Net: Name=A12
+Added Pin To Net: NetName=A13 Pin=J2-74
+Added Pin To Net: NetName=A13 Pin=R17-1
+Added Pin To Net: NetName=A13 Pin=SW6-2
+Added Pin To Net: NetName=A13 Pin=SW6-6
+Added Net: Name=A13
+Added Pin To Net: NetName=A14 Pin=J2-75
+Added Pin To Net: NetName=A14 Pin=LED1-1
+Added Net: Name=A14
+Added Pin To Net: NetName=AA13 Pin=J2-31
+Added Pin To Net: NetName=AA13 Pin=J6-3
+Added Net: Name=AA13
+Added Pin To Net: NetName=AA14 Pin=J2-32
+Added Pin To Net: NetName=AA14 Pin=J6-5
+Added Net: Name=AA14
+Added Pin To Net: NetName=AB14 Pin=J2-29
+Added Pin To Net: NetName=AB14 Pin=J6-1
+Added Net: Name=AB14
+Added Pin To Net: NetName=AB16 Pin=J2-30
+Added Pin To Net: NetName=AB16 Pin=J6-2
+Added Net: Name=AB16
+Added Pin To Net: NetName=AC13 Pin=J2-27
+Added Pin To Net: NetName=AC13 Pin=R8-1
+Added Net: Name=AC13
+Added Pin To Net: NetName=AC14 Pin=J2-28
+Added Pin To Net: NetName=AC14 Pin=R10-1
+Added Net: Name=AC14
+Added Pin To Net: NetName=AD13 Pin=J2-25
+Added Pin To Net: NetName=AD13 Pin=R7-1
+Added Net: Name=AD13
+Added Pin To Net: NetName=AD14 Pin=J2-26
+Added Pin To Net: NetName=AD14 Pin=R9-1
+Added Net: Name=AD14
+Added Pin To Net: NetName=AD15 Pin=J2-20
+Added Pin To Net: NetName=AD15 Pin=R3-1
+Added Net: Name=AD15
+Added Pin To Net: NetName=ADC_VN Pin=J3-63
+Added Net: Name=ADC_VN
+Added Pin To Net: NetName=ADC_VP Pin=J3-64
+Added Net: Name=ADC_VP
+Added Pin To Net: NetName=AE13 Pin=J2-23
+Added Pin To Net: NetName=AE13 Pin=R4-1
+Added Net: Name=AE13
+Added Pin To Net: NetName=AE15 Pin=J2-24
+Added Pin To Net: NetName=AE15 Pin=R1-1
+Added Net: Name=AE15
+Added Pin To Net: NetName=AF13 Pin=J2-21
+Added Pin To Net: NetName=AF13 Pin=R5-1
+Added Net: Name=AF13
+Added Pin To Net: NetName=AF14 Pin=J2-22
+Added Pin To Net: NetName=AF14 Pin=R2-1
+Added Net: Name=AF14
+Added Pin To Net: NetName=AF15 Pin=J2-19
+Added Pin To Net: NetName=AF15 Pin=R6-1
+Added Net: Name=AF15
+Added Pin To Net: NetName=B9 Pin=J2-83
+Added Pin To Net: NetName=B9 Pin=LED5-1
+Added Net: Name=B9
+Added Pin To Net: NetName=B10 Pin=J2-66
+Added Pin To Net: NetName=B10 Pin=R18-1
+Added Pin To Net: NetName=B10 Pin=SW7-2
+Added Pin To Net: NetName=B10 Pin=SW7-6
+Added Net: Name=B10
+Added Pin To Net: NetName=B11 Pin=J2-79
+Added Pin To Net: NetName=B11 Pin=LED3-1
+Added Net: Name=B11
+Added Pin To Net: NetName=B12 Pin=J2-76
+Added Pin To Net: NetName=B12 Pin=R16-1
+Added Pin To Net: NetName=B12 Pin=SW5-2
+Added Pin To Net: NetName=B12 Pin=SW5-6
+Added Net: Name=B12
+Added Pin To Net: NetName=B14 Pin=J2-80
+Added Pin To Net: NetName=B14 Pin=R14-1
+Added Pin To Net: NetName=B14 Pin=SW3-2
+Added Pin To Net: NetName=B14 Pin=SW3-6
+Added Net: Name=B14
+Added Pin To Net: NetName=C9 Pin=J2-84
+Added Pin To Net: NetName=C9 Pin=R12-1
+Added Pin To Net: NetName=C9 Pin=SW1-2
+Added Pin To Net: NetName=C9 Pin=SW1-6
+Added Net: Name=C9
+Added Pin To Net: NetName=C11 Pin=J2-69
+Added Pin To Net: NetName=C11 Pin=LED7-1
+Added Net: Name=C11
+Added Pin To Net: NetName=C12 Pin=J2-77
+Added Pin To Net: NetName=C12 Pin=LED2-1
+Added Net: Name=C12
+Added Pin To Net: NetName=C13 Pin=J2-78
+Added Pin To Net: NetName=C13 Pin=R15-1
+Added Pin To Net: NetName=C13 Pin=SW4-2
+Added Pin To Net: NetName=C13 Pin=SW4-6
+Added Net: Name=C13
+Added Pin To Net: NetName=C14 Pin=J2-73
+Added Pin To Net: NetName=C14 Pin=LED0-1
+Added Net: Name=C14
+Added Pin To Net: NetName=D9 Pin=J2-86
+Added Pin To Net: NetName=D9 Pin=R11-1
+Added Pin To Net: NetName=D9 Pin=SW0-2
+Added Pin To Net: NetName=D9 Pin=SW0-6
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=J2-67
+Added Net: Name=D10
+Added Pin To Net: NetName=D11 Pin=J2-61
+Added Pin To Net: NetName=D11 Pin=R23-1
+Added Pin To Net: NetName=D11 Pin=SW12-2
+Added Net: Name=D11
+Added Pin To Net: NetName=D13 Pin=J2-82
+Added Pin To Net: NetName=D13 Pin=R13-1
+Added Pin To Net: NetName=D13 Pin=SW2-2
+Added Pin To Net: NetName=D13 Pin=SW2-6
+Added Net: Name=D13
+Added Pin To Net: NetName=D14 Pin=J2-71
+Added Pin To Net: NetName=D14 Pin=LED6-1
+Added Net: Name=D14
+Added Pin To Net: NetName=E10 Pin=J2-72
+Added Net: Name=E10
+Added Pin To Net: NetName=E11 Pin=J2-65
+Added Pin To Net: NetName=E11 Pin=R21-1
+Added Pin To Net: NetName=E11 Pin=SW10-2
+Added Net: Name=E11
+Added Pin To Net: NetName=E12 Pin=J2-68
+Added Net: Name=E12
+Added Pin To Net: NetName=F9 Pin=J2-70
+Added Net: Name=F9
+Added Pin To Net: NetName=F10 Pin=J2-63
+Added Pin To Net: NetName=F10 Pin=R22-1
+Added Pin To Net: NetName=F10 Pin=SW11-2
+Added Net: Name=F10
+Added Pin To Net: NetName=F12 Pin=J2-57
+Added Pin To Net: NetName=F12 Pin=J5-3
+Added Net: Name=F12
+Added Pin To Net: NetName=F13 Pin=J2-58
+Added Pin To Net: NetName=F13 Pin=J5-4
+Added Net: Name=F13
+Added Pin To Net: NetName=F14 Pin=J2-60
+Added Net: Name=F14
+Added Pin To Net: NetName=G9 Pin=J2-45
+Added Pin To Net: NetName=G9 Pin=J5-17
+Added Net: Name=G9
+Added Pin To Net: NetName=G10 Pin=J2-46
+Added Pin To Net: NetName=G10 Pin=J5-18
+Added Net: Name=G10
+Added Pin To Net: NetName=G11 Pin=J2-55
+Added Pin To Net: NetName=G11 Pin=J5-7
+Added Net: Name=G11
+Added Pin To Net: NetName=G12 Pin=J2-56
+Added Pin To Net: NetName=G12 Pin=J5-8
+Added Net: Name=G12
+Added Pin To Net: NetName=G14 Pin=J2-59
+Added Pin To Net: NetName=G14 Pin=R24-1
+Added Pin To Net: NetName=G14 Pin=SW13-2
+Added Net: Name=G14
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-13
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-81
+Added Pin To Net: NetName=GND Pin=J3-82
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J4-6
+Added Pin To Net: NetName=GND Pin=J4-7
+Added Pin To Net: NetName=GND Pin=J4-8
+Added Pin To Net: NetName=GND Pin=J4-10
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=GND Pin=J5-6
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=GND Pin=J6-MP1
+Added Pin To Net: NetName=GND Pin=J6-MP2
+Added Pin To Net: NetName=GND Pin=J6-MP3
+Added Pin To Net: NetName=GND Pin=J6-MP4
+Added Pin To Net: NetName=GND Pin=J6-MP5
+Added Pin To Net: NetName=GND Pin=J6-MP6
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-7
+Added Pin To Net: NetName=GND Pin=J7-8
+Added Pin To Net: NetName=GND Pin=J7-57
+Added Pin To Net: NetName=GND Pin=J7-58
+Added Pin To Net: NetName=GND Pin=SW0-1
+Added Pin To Net: NetName=GND Pin=SW0-5
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-5
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW2-5
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-5
+Added Pin To Net: NetName=GND Pin=SW4-1
+Added Pin To Net: NetName=GND Pin=SW4-5
+Added Pin To Net: NetName=GND Pin=SW5-1
+Added Pin To Net: NetName=GND Pin=SW5-5
+Added Pin To Net: NetName=GND Pin=SW6-1
+Added Pin To Net: NetName=GND Pin=SW6-5
+Added Pin To Net: NetName=GND Pin=SW7-1
+Added Pin To Net: NetName=GND Pin=SW7-5
+Added Pin To Net: NetName=GND Pin=SW8-1
+Added Pin To Net: NetName=GND Pin=SW8-5
+Added Pin To Net: NetName=GND Pin=SW9-1
+Added Pin To Net: NetName=GND Pin=SW9-5
+Added Pin To Net: NetName=GND Pin=SW10-1
+Added Pin To Net: NetName=GND Pin=SW11-1
+Added Pin To Net: NetName=GND Pin=SW12-1
+Added Pin To Net: NetName=GND Pin=SW13-1
+Added Net: Name=GND
+Added Pin To Net: NetName=H9 Pin=J2-43
+Added Pin To Net: NetName=H9 Pin=J5-19
+Added Net: Name=H9
+Added Pin To Net: NetName=H11 Pin=J2-50
+Added Pin To Net: NetName=H11 Pin=J5-14
+Added Net: Name=H11
+Added Pin To Net: NetName=H12 Pin=J2-44
+Added Pin To Net: NetName=H12 Pin=J5-20
+Added Net: Name=H12
+Added Pin To Net: NetName=H13 Pin=J2-51
+Added Pin To Net: NetName=H13 Pin=J5-11
+Added Net: Name=H13
+Added Pin To Net: NetName=H14 Pin=J2-52
+Added Pin To Net: NetName=H14 Pin=J5-12
+Added Net: Name=H14
+Added Pin To Net: NetName=J9 Pin=J2-41
+Added Pin To Net: NetName=J9 Pin=J5-21
+Added Net: Name=J9
+Added Pin To Net: NetName=J10 Pin=J2-42
+Added Pin To Net: NetName=J10 Pin=J5-22
+Added Net: Name=J10
+Added Pin To Net: NetName=J11 Pin=J2-49
+Added Pin To Net: NetName=J11 Pin=J5-13
+Added Net: Name=J11
+Added Pin To Net: NetName=J12 Pin=J2-47
+Added Pin To Net: NetName=J12 Pin=J5-15
+Added Net: Name=J12
+Added Pin To Net: NetName=J13 Pin=J2-48
+Added Pin To Net: NetName=J13 Pin=J5-16
+Added Net: Name=J13
+Added Pin To Net: NetName=J14 Pin=J2-53
+Added Pin To Net: NetName=J14 Pin=J5-9
+Added Net: Name=J14
+Added Pin To Net: NetName=J15 Pin=J2-54
+Added Pin To Net: NetName=J15 Pin=J5-10
+Added Net: Name=J15
+Added Pin To Net: NetName=K9 Pin=J2-39
+Added Pin To Net: NetName=K9 Pin=J5-23
+Added Net: Name=K9
+Added Pin To Net: NetName=K10 Pin=J2-40
+Added Pin To Net: NetName=K10 Pin=J5-24
+Added Net: Name=K10
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=R1-2
+Added Pin To Net: NetName=NetJ4_1 Pin=R2-2
+Added Pin To Net: NetName=NetJ4_1 Pin=R3-2
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R5-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R6-2
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_3 Pin=R7-2
+Added Pin To Net: NetName=NetJ4_3 Pin=R8-2
+Added Net: Name=NetJ4_3
+Added Pin To Net: NetName=NetJ4_13 Pin=J4-13
+Added Pin To Net: NetName=NetJ4_13 Pin=R10-2
+Added Net: Name=NetJ4_13
+Added Pin To Net: NetName=NetJ4_14 Pin=J4-14
+Added Pin To Net: NetName=NetJ4_14 Pin=R9-2
+Added Net: Name=NetJ4_14
+Added Pin To Net: NetName=NetLED0_2 Pin=LED0-2
+Added Pin To Net: NetName=NetLED0_2 Pin=R32-2
+Added Net: Name=NetLED0_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R31-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R30-2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R29-2
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R28-2
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R27-2
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=R26-2
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_2 Pin=R25-2
+Added Net: Name=NetLED7_2
+Added Pin To Net: NetName=VDD3.3 Pin=J1-15
+Added Pin To Net: NetName=VDD3.3 Pin=J1-16
+Added Pin To Net: NetName=VDD3.3 Pin=J5-1
+Added Pin To Net: NetName=VDD3.3 Pin=J5-2
+Added Pin To Net: NetName=VDD3.3 Pin=J6-4
+Added Pin To Net: NetName=VDD3.3 Pin=J7-9
+Added Pin To Net: NetName=VDD3.3 Pin=J7-10
+Added Pin To Net: NetName=VDD3.3 Pin=R11-2
+Added Pin To Net: NetName=VDD3.3 Pin=R12-2
+Added Pin To Net: NetName=VDD3.3 Pin=R13-2
+Added Pin To Net: NetName=VDD3.3 Pin=R14-2
+Added Pin To Net: NetName=VDD3.3 Pin=R15-2
+Added Pin To Net: NetName=VDD3.3 Pin=R16-2
+Added Pin To Net: NetName=VDD3.3 Pin=R17-2
+Added Pin To Net: NetName=VDD3.3 Pin=R18-2
+Added Pin To Net: NetName=VDD3.3 Pin=R19-2
+Added Pin To Net: NetName=VDD3.3 Pin=R20-2
+Added Pin To Net: NetName=VDD3.3 Pin=R21-2
+Added Pin To Net: NetName=VDD3.3 Pin=R22-2
+Added Pin To Net: NetName=VDD3.3 Pin=R23-2
+Added Pin To Net: NetName=VDD3.3 Pin=R24-2
+Added Pin To Net: NetName=VDD3.3 Pin=R25-1
+Added Pin To Net: NetName=VDD3.3 Pin=R26-1
+Added Pin To Net: NetName=VDD3.3 Pin=R27-1
+Added Pin To Net: NetName=VDD3.3 Pin=R28-1
+Added Pin To Net: NetName=VDD3.3 Pin=R29-1
+Added Pin To Net: NetName=VDD3.3 Pin=R30-1
+Added Pin To Net: NetName=VDD3.3 Pin=R31-1
+Added Pin To Net: NetName=VDD3.3 Pin=R32-1
+Added Net: Name=VDD3.3
+Added Pin To Net: NetName=VDD12 Pin=J1-7
+Added Pin To Net: NetName=VDD12 Pin=J1-8
+Added Pin To Net: NetName=VDD12 Pin=J1-9
+Added Pin To Net: NetName=VDD12 Pin=J1-10
+Added Pin To Net: NetName=VDD12 Pin=J1-11
+Added Pin To Net: NetName=VDD12 Pin=J1-12
+Added Pin To Net: NetName=VDD12 Pin=J7-5
+Added Pin To Net: NetName=VDD12 Pin=J7-6
+Added Net: Name=VDD12
+Added Pin To Net: NetName=W12 Pin=J2-38
+Added Pin To Net: NetName=W12 Pin=J5-26
+Added Net: Name=W12
+Added Pin To Net: NetName=W13 Pin=J2-37
+Added Pin To Net: NetName=W13 Pin=J5-25
+Added Net: Name=W13
+Added Pin To Net: NetName=W14 Pin=J2-36
+Added Pin To Net: NetName=W14 Pin=J5-28
+Added Net: Name=W14
+Added Pin To Net: NetName=W15 Pin=J2-35
+Added Pin To Net: NetName=W15 Pin=J5-27
+Added Net: Name=W15
+Added Pin To Net: NetName=Y15 Pin=J2-34
+Added Pin To Net: NetName=Y15 Pin=J6-8
+Added Net: Name=Y15
+Added Pin To Net: NetName=Y16 Pin=J2-33
+Added Pin To Net: NetName=Y16 Pin=J6-7
+Added Net: Name=Y16
+Added Class: Name=BOARD_GPIO
+Added Class: Name=FPGA_GPIO
+Added Class: Name=MICROSD
+Added Class: Name=SWITCHES
+Added Class: Name=VGA
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
