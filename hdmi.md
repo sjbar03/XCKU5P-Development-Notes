@@ -9,6 +9,8 @@ Encodes 8 bits to 10 bits. First bit is untransformed. Two stages.
 
 A pair of TMDS signals are complementary: two wires of the pair have opposite signals.
 
+## 
+
 ### On FPGA
 The XCKU5P does not have HR I/O that support TMDS. The HDMI IP from Xilinx supports GTYE4 for UltraScale+ devices: the GTY pins on this board. I will use the <a href="/Documentation/pg230-vid-phy-controller-en-us-2.2.pdf">Video PHY Controller</a> and <a href="/Documentation/pg235-v-hdmi-tx-ss-en-us-3.2 (1).pdf">HDMI 1.4 TX</a> Xilinx IP. The outputs of the Video PHY Controller can then be exported to the specific GTY pins chosen for the HDMI port.
 

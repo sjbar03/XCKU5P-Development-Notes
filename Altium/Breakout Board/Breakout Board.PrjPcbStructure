@@ -1,6 +1,0 @@
-Record=TopLevelDocument|FileName=BOARD_GPIO.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=BOARD_GPIO.SchDoc|FileName=FPGA_GPIO.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=BOARD_GPIO.SchDoc|FileName=HDMI.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=BOARD_GPIO.SchDoc|FileName=MICROSD.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=BOARD_GPIO.SchDoc|FileName=SWITCHES.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=BOARD_GPIO.SchDoc|FileName=VGA.SchDoc|SheetNumber=1
