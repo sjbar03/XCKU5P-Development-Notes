@@ -794,7 +794,7 @@
         "uuid": "c44d7773-a123-40d0-b8be-ab612fbc35da"
       }
     ],
-    "used_designators": "",
+    "used_designators": "Card1,FB1,#PWR16-19,L5,C16-17,R12-15",
     "variants": []
   },
   "sheets": [
@@ -805,6 +805,10 @@
     [
       "a5067126-3939-4e9a-9294-0f8911585d30",
       "HDMI"
+    ],
+    [
+      "edc77619-f67f-43d7-a58c-204971a04a68",
+      "MICROSD"
     ]
   ],
   "text_variables": {},

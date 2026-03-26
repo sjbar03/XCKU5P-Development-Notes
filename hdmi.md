@@ -9,9 +9,16 @@ Encodes 8 bits to 10 bits. First bit is untransformed. Two stages.
 
 A pair of TMDS signals are complementary: two wires of the pair have opposite signals.
 
-## 
+## Transmitter Chip (ADV7513)
+Because this FPGA does not have the GTY pins routed, we have to use the HP pins to drive an external transmitter chip. I've chosen to go with the ubiquitous [ADV7513](/Datasheets/C408901%20-%20HDMI.pdf) from Analog Devices. It's very cheap, relatively simple, widely supported, and can handle the HDMI spec I'm going for (1.4). 
 
-### On FPGA
+We will use HP IO at 1.8V (LVCMOS18) to drive the digital inputs of this chip. We also need to connect a 3.3V power supply, and a 1.8V power supply. 
+
+<img src="img/hdmi/HDMI-circuit.png">
+
+Above is the circuit I will be using to drive the ADV7513. This circuit is nearly identical to the HDMI circuit used on the [Altera DE10 FPGA](/Datasheets/de10-nano-schematic-711128.pdf).
+
+<!-- ### On FPGA
 The XCKU5P does not have HR I/O that support TMDS. The HDMI IP from Xilinx supports GTYE4 for UltraScale+ devices: the GTY pins on this board. I will use the <a href="/Documentation/pg230-vid-phy-controller-en-us-2.2.pdf">Video PHY Controller</a> and <a href="/Documentation/pg235-v-hdmi-tx-ss-en-us-3.2 (1).pdf">HDMI 1.4 TX</a> Xilinx IP. The outputs of the Video PHY Controller can then be exported to the specific GTY pins chosen for the HDMI port.
 
 The HDMI subsystem will be implemented following the HDMI example for the KC705 Evaluation Board. A screenshot of the block diagram can be found <a href="/Documentation/hdmi-subsys-example.pdf">here</a> but directions for loading this example are in PG235 (3p.87).
@@ -31,7 +38,7 @@ All of these pins are GTY pins on bank 224. They make up 4 sets of TX differenti
 Currently trying to figure out if my core board even exposes the GTY pins. (Not looking good)
 
 ## Roadblock
-The AliExpress XCKU5P board does not expose any of the GTY pins on the FPGA - so the Xilinx HDMI Transmitter IP cannot be (easily) used for my purposes. Because of this I am switching to implementing VGA using the high-density (at 3.3V) I/O. These notes will remain for future reference. 
+The AliExpress XCKU5P board does not expose any of the GTY pins on the FPGA - so the Xilinx HDMI Transmitter IP cannot be (easily) used for my purposes. Because of this I am switching to implementing VGA using the high-density (at 3.3V) I/O. These notes will remain for future reference.  -->
 
 
 # Sources
