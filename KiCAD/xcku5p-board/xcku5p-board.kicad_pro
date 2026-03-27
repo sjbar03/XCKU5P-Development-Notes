@@ -744,6 +744,36 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Number of Resistors",
+          "name": "Number of Resistors",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Reverse Voltage (Vr)",
+          "name": "Reverse Voltage (Vr)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Forward Voltage (Vf@If)",
+          "name": "Forward Voltage (Vf@If)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Number of Pins",
+          "name": "Number of Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Rectified Current",
+          "name": "Rectified Current",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -794,7 +824,7 @@
         "uuid": "c44d7773-a123-40d0-b8be-ab612fbc35da"
       }
     ],
-    "used_designators": "Card1,FB1,#PWR16-19,L5,C16-17,R12-15",
+    "used_designators": "U2-4,R15-38,#PWR20-55,D4-5,L6,LED1-8,C18-22,SW1-11,USBC1",
     "variants": []
   },
   "sheets": [
@@ -809,6 +839,18 @@
     [
       "edc77619-f67f-43d7-a58c-204971a04a68",
       "MICROSD"
+    ],
+    [
+      "2e4d943e-8462-42ba-990c-c062857033b6",
+      "POWER"
+    ],
+    [
+      "d788a6c1-6609-4faa-a0f8-06ff2ed8a260",
+      "SWITCHES"
+    ],
+    [
+      "24505f29-566e-43d9-9de5-3653181c0d3b",
+      "UART_BRIDGE"
     ]
   ],
   "text_variables": {},

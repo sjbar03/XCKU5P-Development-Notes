@@ -6,6 +6,98 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 129.54 22.86)
+		(size 12.7 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "24505f29-566e-43d9-9de5-3653181c0d3b")
+		(property "Sheetname" "UART_BRIDGE"
+			(at 129.54 22.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UART_BRIDGE.kicad_sch"
+			(at 129.54 29.7946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "xcku5p-board"
+				(path "/c44d7773-a123-40d0-b8be-ab612fbc35da"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 22.86)
+		(size 12.7 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2e4d943e-8462-42ba-990c-c062857033b6")
+		(property "Sheetname" "POWER"
+			(at 76.2 22.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER.kicad_sch"
+			(at 76.2 29.7946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "xcku5p-board"
+				(path "/c44d7773-a123-40d0-b8be-ab612fbc35da"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 24.13 22.86)
 		(size 12.7 6.35)
 		(exclude_from_sim no)
@@ -47,6 +139,52 @@
 			(project "xcku5p-board"
 				(path "/c44d7773-a123-40d0-b8be-ab612fbc35da"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.235 22.86)
+		(size 12.7 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d788a6c1-6609-4faa-a0f8-06ff2ed8a260")
+		(property "Sheetname" "SWITCHES"
+			(at 102.235 22.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SWITCHES.kicad_sch"
+			(at 102.235 29.7946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "xcku5p-board"
+				(path "/c44d7773-a123-40d0-b8be-ab612fbc35da"
+					(page "5")
 				)
 			)
 		)
